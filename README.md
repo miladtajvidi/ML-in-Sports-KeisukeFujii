@@ -17,18 +17,18 @@ Through a seamless blend of theoretical frameworks and practical applications, t
 This book is an essential read for postgraduates, researchers, and technologists, who are interested in sports analysts. The book consists of five parts: Part I, which comprises a single chapter exploring the fundamentals and scope of learning-based sports analytics; Parts II, III, IV, and V review the various aspects of this field, including data acquisition with computer vision, predictive analysis and play evaluation with machine learning, potential play evaluation with learning-based agent modeling, and future perspectives and ecosystems on the field. This structure provides a comprehensive overview that will engage and inform researchers and practitioners interested in the intersection of analytical research and cutting-edge technology in sports.
 
 # Keywords
-Open Access
-Artificial intelligence
-Machine learning
-Deep learning
-Real-world data
-Prediction
-Reinforcement learning
-Cyber-physical systems
-Modeling
-Sports
-Football
-Soccer
+Open Access,
+Artificial intelligence,
+Machine learning,
+Deep learning,
+Real-world data,
+Prediction,
+Reinforcement learning,
+Cyber-physical systems,
+Modeling,
+Sports,
+Football,
+Soccer,
 Basketball
 
 # Table of contents (5 chapters)
