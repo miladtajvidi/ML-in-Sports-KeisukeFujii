@@ -33,7 +33,7 @@ Basketball
 
 # Table of contents (5 chapters)
 1- [What is Learning-Based Sports Analytics?](1-What%20is%20Learning-Based%20Sports%20Analytics) <br>
-2- [Computer Vision for Sports Analytics](2-Computer%20Visionfor%20Sports%20Analytics) <br>
+2- [Computer Vision for Sports Analytics](2-Computer%20Vision%20for%20Sports%20Analytics) <br>
 3- [Predictive Analysis and Play Evaluation with Machine Learning](3-Predictive%20Analysis%20and%20Play%20Evaluation%20with%20Machine%20Learning) <br>
 4- [Potential Play Evaluation with Learning-Based Agent Modeling](4-Potential%20Play%20Evaluation%20with%20Learning-Based%20Agent%20Modeling) <br>
 5- [Future Perspectives and Ecosystems](5-Future%20Perspectives%20and%20Ecosystems)
