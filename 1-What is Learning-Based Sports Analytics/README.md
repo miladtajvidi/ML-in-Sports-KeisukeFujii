@@ -1,33 +1,25 @@
 # References
 
-[1. Beal, R., Norman, T.J., Ramchurn, S.D.: Artificial intelligence for team sports: a survey. Knowl.
-Eng. Rev. 34, e28 (2019)](https://eprints.soton.ac.uk/436900/1/Artificial_Intelligence_for_Team_Sports_A_Survey.pdf) <br>
-[2. Cao, Z., Hidalgo, G., Simon, T., Wei, S.-E., Sheikh, Y.: OpenPose: realtime multi-person 2D
-pose estimation using Part Affinity Fields (2018). arXiv:1812.08008](https://arxiv.org/pdf/1812.08008) <br>
-[3. Davis, J., Bransen, L., Devos, L., Jaspers, A., Meert, W., Robberechts, P., Van Haaren, J.,
-Van Roy, M.: Methodology and evaluation in sports analytics: challenges, approaches, and
-lessons learned. Mach. Learn. 1–34 (2024)](https://link.springer.com/article/10.1007/s10994-024-06585-0) <br>
-[4. Fujii, K.: Data-driven analysis for understanding team sports behaviors. J. Robot. Mechatron.
-33(3), 505–514 (2021)]() <br>
-[5. Fujii, K., Takeishi, N., Kawahara, Y., Takeda, K.: Decentralized policy learning with partial
-observation and mechanical constraints for multiperson modeling. Neural Netw. 171, 40–52
-(2024)]() <br>
-[6. Fujii, K., Tsutsui, K., Scott, A., Nakahara, H., Takeishi, N., Kawahara, Y.: Adaptive action
-supervision in reinforcement learning from real-world multi-agent demonstrations. In: 16th
-International Conference on Agents and Artificial Intelligence (ICAART’24), vol. 2, pp. 27–
-39 (2024)]() <br>
-[7. Fujii, K., Yamada, Y., Oda, S.: Skilled basketball players rotate their shoulders more during
-running while dribbling. Percept. Mot. Skills 110(3), 983–994 (2010)]() <br>
-[8. Fujii, K., Yamashita, D., Kimura, T., Isaka, T., Kouzaki, M.: Preparatory body state before
-reacting to an opponent: Short-term joint torque fluctuation in real-time competitive sports.
-PLoS ONE 10(5), e0128571 (2015)]() <br>
-[9. Fujii, K., Yokoyama, K., Koyama, T., Rikukawa, A., Yamada, H., Yamamoto, Y.: Resilient help
-to switch and overlap hierarchical subsystems in a small human group. Sci. Rep. 6 (2016)]() <br>
-[10. Goes, F.R., Meerhoff, L.A., Bueno, M., Rodrigues, D.M., Moura, F.A., Brink, M.S., ElferinkGemser, M.T., Knobbe, A.J., Cunha, S.A., Torres, R.S., et al.: Unlocking the potential of big
-data to support tactical performance analysis in professional soccer: A systematic review. Eur.
-J. Sport Sci. 21(4), 481–496 (2021)]() <br>
-[11. Gréhaigne, J.-F., Godbout, P., Bouthier, D.: The foundations of tactics and strategy in team
-sports. J. Teach. Phys. Educ. 18(2), 159–174 (1999)]() <br>
+[1. Artificial intelligence for team sports: a survey(2019)](https://eprints.soton.ac.uk/436900/1/Artificial_Intelligence_for_Team_Sports_A_Survey.pdf) <br>
+[2. OpenPose: realtime multi-person 2D
+pose estimation using Part Affinity Fields (2018)](https://arxiv.org/pdf/1812.08008) <br>
+[3. Methodology and evaluation in sports analytics: challenges, approaches, and
+lessons learned(2024)](https://link.springer.com/article/10.1007/s10994-024-06585-0) <br>
+[4. Data-driven analysis for understanding team sports behaviors(2021)](https://arxiv.org/pdf/2102.07545) <br>
+[5. Decentralized policy learning with partial
+observation and mechanical constraints for multiperson modeling(2024)](https://arxiv.org/pdf/2007.03155) <br>
+[6. Adaptive action
+supervision in reinforcement learning from real-world multi-agent demonstrations(2024)](https://arxiv.org/pdf/2305.13030) <br>
+[7. Skilled basketball players rotate their shoulders more during
+running while dribbling(2010)](https://www.researchgate.net/publication/45492822_Skilled_Basketball_Players_Rotate_Their_Shoulders_More_during_Running_While_Dribbling) <br>
+[8. Preparatory body state before
+reacting to an opponent: Short-term joint torque fluctuation in real-time competitive sports(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128571) <br>
+[9. Resilient help
+to switch and overlap hierarchical subsystems in a small human group(2016)](https://www.researchgate.net/publication/299769568_Resilient_help_to_switch_and_overlap_hierarchical_subsystems_in_a_small_human_group) <br>
+[10. Unlocking the potential of big
+data to support tactical performance analysis in professional soccer: A systematic review(2021)](https://www.researchgate.net/publication/340666418_Unlocking_the_potential_of_big_data_to_support_tactical_performance_analysis_in_professional_soccer_A_systematic_review) <br>
+[11. The foundations of tactics and strategy in team
+sports(1999)](https://www.researchgate.net/publication/289757624_The_Foundations_of_Tactics_and_Strategy_in_Team_Sports) <br>
 [12. Hojo, M., Fujii, K., Inaba, Y., Motoyasu, Y., Kawahara, Y.: Automatically recognizing strategic
 cooperative behaviors in various situations of a team sport. PLoS ONE 13(12), e0209247 (2018)]() <br>
 [13. James, B.: The New Bill James Historical Baseball Abstract. Simon and Schuster (2010)]() <br>
