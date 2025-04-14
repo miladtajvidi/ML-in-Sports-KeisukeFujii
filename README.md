@@ -3,8 +3,7 @@
 </p>
 
 # ML-in-Sports-KeisukeFujii
-This repo contains the publicly available papers and articles cited in the "Machine Learning in Sports: Open Approach for Next Play Analytics" by Keisuke Fujii as part of the SpringerBriefs in Computer Science.<br>
-[Machine Leraning in Sports](https://doi.org/10.1007/978-981-96-1445-5) <br>
+This repo contains the publicly available papers and articles cited in the "[Machine Leraning in Sports: Open Approach for Next Play Analytics](https://doi.org/10.1007/978-981-96-1445-5)" by Keisuke Fujii as part of the SpringerBriefs in Computer Science.<br>
 The purpose of this repo is to serv as a complimentary resource for ease of access when you're reading the book.
 Please contact me know if you're one of the authors and want your papers' likns removed. 
 Please give this repo a star if you found it helpful!
