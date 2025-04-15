@@ -48,8 +48,9 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [44- A Semi-automatic System for Ground Truth Generation of Soccer Video Sequences(2009)](https://www.researchgate.net/publication/224600824_A_Semi-automatic_System_for_Ground_Truth_Generation_of_Soccer_Video_Sequences) <br>
 [45- CenterNet: Keypoint Triplets for Object Detection(2019)](https://arxiv.org/abs/1904.08189) <br>
 [46- MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation(2019)](https://arxiv.org/abs/1903.01945) <br>
-[47-]() <br>
-[48-]() <br>
+[47- Tracking Soccer Players using the Graph Representation(2004)](https://www.researchgate.net/publication/220931909_Tracking_Soccer_Players_using_the_Graph_Representation) <br>
+[48- Random sample consensus: a paradigm for model fitting with
+applications to image analysis and automated cartography(1981)](https://dl.acm.org/doi/pdf/10.1145/358669.358692) <br>
 [49-]() <br>
 [50-]() <br>
 [51-]() <br>
