@@ -31,15 +31,15 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [27- Pointless calibration: Camera parameters from gradient-based alignment to edge images(2012)](https://www.researchgate.net/publication/254056672_Pointless_calibration_Camera_parameters_from_gradient-based_alignment_to_edge_images) <br>
 [28- 3D Ball Trajectory Reconstruction of a Ballistic Shot from a Monocular Basketball Video(2023)](https://www.researchgate.net/publication/375702396_3D_Ball_Trajectory_Reconstruction_of_a_Ballistic_Shot_from_a_Monocular_Basketball_Video) <br>
 [29- Sports Camera Calibration via Synthetic Data(2019)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Chen_Sports_Camera_Calibration_via_Synthetic_Data_CVPRW_2019_paper.pdf) <br>
-[30-]() <br>
-[31-]() <br>
-[32-]() <br>
-[33-]() <br>
-[34-]() <br>
-[35-]() <br>
-[36-]() <br>
-[37-]() <br>
-[38-]() <br>
+[30- Dynamic model based ball trajectory prediction for a robot ping-pong player(2010)](https://www.researchgate.net/publication/251992166_Dynamic_model_based_ball_trajectory_prediction_for_a_robot_ping-pong_player) <br>
+[31- HigherHRNet: Scale-Aware Representation Learning for Bottom-Up Human Pose Estimation(2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_HigherHRNet_Scale-Aware_Representation_Learning_for_Bottom-Up_Human_Pose_Estimation_CVPR_2020_paper.pdf) <br>
+[32- Player tracking and analysis of basketball plays(2015)](https://web.stanford.edu/class/ee368/Project_Spring_1415/Posters/Cheshire_Halasz_Perin.pdf) <br>
+[33- Sports Field Registration via Keypoints-Aware Label Condition(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/html/Chu_Sports_Field_Registration_via_Keypoints-Aware_Label_Condition_CVPRW_2022_paper.html) <br>
+[34- A Context-Aware Loss Function for Action Spotting in Soccer Videos(2020)](https://arxiv.org/abs/1912.01326) <br>
+[35- Scaling up SoccerNet with multi-view spatial localization and re-identification(2022)](https://www.researchgate.net/publication/361442319_Scaling_up_SoccerNet_with_multi-view_spatial_localization_and_re-identification) <br>
+[36- SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Videos(2022)](https://arxiv.org/abs/2204.06918) <br>
+[37- SoccerNet 2023 Challenges Results(2024)](https://arxiv.org/abs/2309.06006) <br>
+[38- Real-Time Camera Pose Estimation for Sports Fields(2020)](https://arxiv.org/abs/2003.14109) <br>
 [39-]() <br>
 [40-]() <br>
 [41-]() <br>
