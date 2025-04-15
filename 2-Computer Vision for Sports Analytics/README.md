@@ -40,14 +40,14 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [36- SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Videos(2022)](https://arxiv.org/abs/2204.06918) <br>
 [37- SoccerNet 2023 Challenges Results(2024)](https://arxiv.org/abs/2309.06006) <br>
 [38- Real-Time Camera Pose Estimation for Sports Fields(2020)](https://arxiv.org/abs/2003.14109) <br>
-[39-]() <br>
-[40-]() <br>
-[41-]() <br>
-[42-]() <br>
-[43-]() <br>
-[44-]() <br>
-[45-]() <br>
-[46-]() <br>
+[39- Video-based Sequential Bayesian Homography Estimation for Soccer Field Registration(2024)](https://arxiv.org/abs/2311.10361) <br>
+[40- SportsMOT: A Large Multi-Object Tracking Dataset in Multiple Sports Scenes(2023)](https://arxiv.org/abs/2304.05170) <br>
+[41- Distributed video acquisition and annotation for sport-event summarization(2008)](https://www.researchgate.net/publication/229017805_Distributed_video_acquisition_and_annotation_for_sport-event_summarization) <br>
+[42- SoccerNet-v2: A Dataset and Benchmarks for Holistic Understanding of Broadcast Soccer Videos(2021)](https://arxiv.org/abs/2011.13367) <br>
+[43- Player detection in field sports(2018)](https://doras.dcu.ie/22135/1/Player_Detection_MVA.pdf) <br>
+[44- A Semi-automatic System for Ground Truth Generation of Soccer Video Sequences(2009)](https://www.researchgate.net/publication/224600824_A_Semi-automatic_System_for_Ground_Truth_Generation_of_Soccer_Video_Sequences) <br>
+[45- CenterNet: Keypoint Triplets for Object Detection(2019)](https://arxiv.org/abs/1904.08189) <br>
+[46- MS-TCN: Multi-Stage Temporal Convolutional Network for Action Segmentation(2019)](https://arxiv.org/abs/1903.01945) <br>
 [47-]() <br>
 [48-]() <br>
 [49-]() <br>
