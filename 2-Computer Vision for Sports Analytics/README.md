@@ -11,7 +11,7 @@ and semantic feature fusion (2019)](https://arxiv.org/abs/1906.02042) <br>
 [8- Using player’s bodyorientation to model pass feasibility in soccer(2020)](https://arxiv.org/abs/2004.07209) <br>
 [9-  Interaction classification with key actor detection in multi-person sports videos(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Askari_Interaction_Classification_With_Key_Actor_Detection_in_Multi-Person_Sports_Videos_CVPRW_2022_paper.pdf) <br>
 [10- Video interaction recognition using an attention augmented relational network and skeleton data(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Askari_Video_Interaction_Recognition_using_an_Attention_Augmented_Relational_Network_and_CVPRW_2024_paper.pdf) <br>
-[11- : Soccer players identification based on
+[11- Soccer players identification based on
 visual local features(2007)](https://www.researchgate.net/publication/210113142_Soccer_Players_Identification_Based_on_Visual_Local_Features) <br>
 [12- My view is the best view: procedure learning from egocentric videos(2022)](https://arxiv.org/abs/2207.10883) <br>
 [13- Monocular 3D human pose estimation for sports broadcasts using partial sports field registration(2023)](https://arxiv.org/abs/2304.04437) <br>
@@ -26,11 +26,11 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [22- PitcherNet: Powering the Moneyball Evolution in Baseball Video Analytics(2024)](https://arxiv.org/abs/2405.07407) <br>
 [23- Beyond the Premier: Assessing Action Spotting Transfer Capability Across Diverse Domains(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Cabado_Beyond_the_Premier_Assessing_Action_Spotting_Transfer_Capability_Across_Diverse_CVPRW_2024_paper.html) <br>
 [24- Observation-centric sort: Rethinking sort for robust multi-object tracking(2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Observation-Centric_SORT_Rethinking_SORT_for_Robust_Multi-Object_Tracking_CVPR_2023_paper.pdf) <br>
-[25-]() <br>
-[26-]() <br>
-[27-]() <br>
-[28-]() <br>
-[29-]() <br>
+[25- OpenPose: Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields(2019)](https://arxiv.org/abs/1812.08008) <br>
+[26- End-to-End Object Detection with Transformers(2020)](https://arxiv.org/abs/2005.12872) <br>
+[27- Pointless calibration: Camera parameters from gradient-based alignment to edge images(2012)](https://www.researchgate.net/publication/254056672_Pointless_calibration_Camera_parameters_from_gradient-based_alignment_to_edge_images) <br>
+[28- 3D Ball Trajectory Reconstruction of a Ballistic Shot from a Monocular Basketball Video(2023)](https://www.researchgate.net/publication/375702396_3D_Ball_Trajectory_Reconstruction_of_a_Ballistic_Shot_from_a_Monocular_Basketball_Video) <br>
+[29- Sports Camera Calibration via Synthetic Data(2019)](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Chen_Sports_Camera_Calibration_via_Synthetic_Data_CVPRW_2019_paper.pdf) <br>
 [30-]() <br>
 [31-]() <br>
 [32-]() <br>
