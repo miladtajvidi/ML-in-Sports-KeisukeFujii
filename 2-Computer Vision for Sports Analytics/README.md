@@ -18,14 +18,14 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [14- Unified fully and timestamp supervised temporal action segmentation via sequence to sequence translation(2022)](https://arxiv.org/abs/2209.00638) <br>
 [15- Racing bib numbers recognition(2012)](https://people.csail.mit.edu/talidekel/papers/RBNR.pdf) <br>
 [16- OSL-ActionSpotting: A Unified Library for Action Spotting in Sports Videos(2024)](https://arxiv.org/abs/2407.01265) <br>
-[17-]() <br>
-[18-]() <br>
-[19-]() <br>
-[20-]() <br>
-[21-]() <br>
-[22-]() <br>
-[23-]() <br>
-[24-]() <br>
+[17- Tracking without bells and whistles(2019)](https://arxiv.org/abs/1903.05625) <br>
+[18- Simple online and realtime tracking(2016)](https://www.researchgate.net/publication/307516256_Simple_online_and_realtime_tracking) <br>
+[19- A Unified Taxonomy and Multimodal Dataset for Events in Invasion Games(2021)](https://arxiv.org/abs/2108.11149) <br>
+[20- Learning a Neural Solver for Multiple Object Tracking(2020)](https://openaccess.thecvf.com/content_CVPR_2020/html/Braso_Learning_a_Neural_Solver_for_Multiple_Object_Tracking_CVPR_2020_paper.html) <br>
+[21- Multi-Person 3D Pose Estimation and Tracking in Sports(2019)](https://openaccess.thecvf.com/content_CVPRW_2019/html/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.html) <br>
+[22- PitcherNet: Powering the Moneyball Evolution in Baseball Video Analytics(2024)](https://arxiv.org/abs/2405.07407) <br>
+[23- Beyond the Premier: Assessing Action Spotting Transfer Capability Across Diverse Domains(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/html/Cabado_Beyond_the_Premier_Assessing_Action_Spotting_Transfer_Capability_Across_Diverse_CVPRW_2024_paper.html) <br>
+[24- Observation-centric sort: Rethinking sort for robust multi-object tracking(2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Cao_Observation-Centric_SORT_Rethinking_SORT_for_Robust_Multi-Object_Tracking_CVPR_2023_paper.pdf) <br>
 [25-]() <br>
 [26-]() <br>
 [27-]() <br>
