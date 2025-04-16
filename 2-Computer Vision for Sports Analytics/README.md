@@ -51,14 +51,14 @@ visual local features(2007)](https://www.researchgate.net/publication/210113142_
 [47- Tracking Soccer Players using the Graph Representation(2004)](https://www.researchgate.net/publication/220931909_Tracking_Soccer_Players_using_the_Graph_Representation) <br>
 [48- Random sample consensus: a paradigm for model fitting with
 applications to image analysis and automated cartography(1981)](https://dl.acm.org/doi/pdf/10.1145/358669.358692) <br>
-[49-]() <br>
-[50-]() <br>
-[51-]() <br>
-[52-]() <br>
-[53-]() <br>
-[54-]() <br>
-[55-]() <br>
-[56-]() <br>
+[49- A study on spin-rate measurement using a uniquely marked moving ball(2009)](https://www.researchgate.net/publication/238007227_A_study_on_spin-rate_measurement_using_a_uniquely_marked_moving_ball) <br>
+[50- SkatingVerse: A large‐scale benchmark for comprehensive evaluation on human action understanding(2024)](https://www.researchgate.net/publication/381009317_SkatingVerse_A_large-scale_benchmark_for_comprehensive_evaluation_on_human_action_understanding) <br>
+[51- Robust Stroke Recognition via Vision and IMU in Robotic Table Tennis(2021)](https://www.researchgate.net/publication/354526585_Robust_Stroke_Recognition_via_Vision_and_IMU_in_Robotic_Table_Tennis) <br>
+[52- DeepSportLab: a Unified Framework for Ball Detection, Player Instance Segmentation and Pose Estimation in Team Sports Scenes(2021)](https://arxiv.org/abs/2112.00627) <br>
+[53- SoccerNet: A Scalable Dataset for Action Spotting in Soccer Videos(2018)](https://arxiv.org/abs/1804.04527) <br>
+[54- Towards Active Learning for Action Spotting in Association Football Videos(2023)](https://arxiv.org/abs/2304.04220) <br>
+[55- Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts(2021)](https://arxiv.org/abs/2104.06779) <br>
+[56- Tracking the Spin on a Ping Pong Ball with the Quaternion Bingham Filter(2014)](https://lis.csail.mit.edu/pubs/glover-icra14.pdf) <br>
 [57-]() <br>
 [58-]() <br>
 [59-]() <br>
