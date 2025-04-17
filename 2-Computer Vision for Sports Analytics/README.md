@@ -85,25 +85,25 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [80- Foul prediction with estimated poses from soccer broadcast video(2024)](https://arxiv.org/abs/2402.09650) <br>
 [81- Optimizing Through Learned Errors for Accurate Sports Field Registration(2020)](https://arxiv.org/abs/1909.08034) <br>
 [82- SoccerDB: A Large-Scale Database for Comprehensive Video Understanding(2020)](https://arxiv.org/abs/1912.04465) <br>
-[83-]() <br>
-[84-]() <br>
-[85-]() <br>
-[86-]() <br>
-[87-]() <br>
-[88-]() <br>
-[89-]() <br>
-[90-]() <br>
-[91-]() <br>
-[92-]() <br>
-[93-]() <br>
-[94-]() <br>
-[95-]() <br>
-[96-]() <br>
-[97-]() <br>
-[98-]() <br>
-[99-]() <br>
-[100-]() <br>
-[101-]() <br>
+[83- Whole-Body Human Pose Estimation in the Wild(2020)](https://arxiv.org/abs/2007.11858) <br>
+[84- Clustered Pose and Nonlinear Appearance Models for Human Pose Estimation(2010)](https://bmvc10.dcs.aber.ac.uk/proc/conference/paper12/paper12.pdf) <br>
+[85- Multi-view Body Part Recognition with Random Forests(2013)](https://www.researchgate.net/publication/264419971_Multi-view_Body_Part_Recognition_with_Random_Forests) <br>
+[86- A General Framework for Jersey Number Recognition in Sports Video(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Koshkina_A_General_Framework_for_Jersey_Number_Recognition_in_Sports_Video_CVPRW_2024_paper.pdf) <br>
+[87- Contrastive Learning for Sports Video: Unsupervised Player Classification(2021)](https://arxiv.org/abs/2104.10068) <br>
+[88- The Language of Actions: Recovering the Syntax and Semantics of Goal-Directed Human Activities(2014)](https://openaccess.thecvf.com/content_cvpr_2014/papers/Kuehne_The_Language_of_2014_CVPR_paper.pdf) <br>
+[89- Google research football: a novel reinforcement learning environment(2020)](https://ojs.aaai.org/index.php/AAAI/article/view/5878) <br>
+[90- Extrinsic Camera Calibration from A Moving Person(2022)](https://vision.ist.i.kyoto-u.ac.jp/pubs/SLee_RAL22.pdf) <br>
+[91- A Fast Snake-based Method to Track Football Players(2000)](https://www.researchgate.net/profile/Nicole-Vincent-2/publication/221280227_A_Fast_Snake-Based_Method_to_Track_Football_Player/links/09e41513751628c732000000/A-Fast-Snake-Based-Method-to-Track-Football-Player.pdf) <br>
+[92- Sports-QA: A Large-Scale Video Question Answering Benchmark for Complex and Professional Sports(2024)](https://arxiv.org/abs/2401.01505) <br>
+[93- AI Choreographer: Music Conditioned 3D Dance Generation with AIST++(2021)](https://ar5iv.labs.arxiv.org/html/2101.08779) <br>
+[94- GroupFormer: Group Activity Recognition with Clustered Spatial-Temporal Transformer(2021)](https://arxiv.org/abs/2108.12630) <br>
+[95- Lifting Transformer for 3D Human Pose Estimation in Video(2021)](https://www.researchgate.net/publication/350457168_Lifting_Transformer_for_3D_Human_Pose_Estimation_in_Video) <br>
+[96- RESOUND: Towards Action Recognition without Representation Bias(2018)](https://www.ecva.net/papers/eccv_2018/papers_ECCV/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf) <br>
+[97- MultiSports: A Multi-Person Video Dataset of Spatio-Temporally Localized Sports Actions(2021)](https://arxiv.org/abs/2105.07404) <br>
+[98- Involving Distinguished Temporal Graph Convolutional Networks for Skeleton-Based Temporal Action Segmentation(2023)](https://ieeexplore.ieee.org/document/10148994) <br>
+[99- Focal Loss for Dense Object Detection(2017)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) <br>
+[100- Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation(2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Group_Pose_A_Simple_Baseline_for_End-to-End_Multi-Person_Pose_Estimation_ICCV_2023_paper.pdf) <br>
+[101- MonoTrack: Shuttle trajectory reconstruction from monocular badminton video(2022)](https://arxiv.org/abs/2204.01899) <br>
 [102-]() <br>
 [103-]() <br>
 [104-]() <br>
