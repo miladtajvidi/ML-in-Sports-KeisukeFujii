@@ -115,18 +115,18 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [110- A Survey on Player Tracking in Soccer Videos(2017)](https://www.researchgate.net/publication/313358064_A_Survey_on_Player_Tracking_in_Soccer_Videos) <br>
 [111- Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking(2023)](https://arxiv.org/abs/2401.09942) <br>
 [112- A simple yet effective baseline for 3d human pose estimation(2017)](https://arxiv.org/abs/1705.03098) <br>
-[113-]() <br>
-[114-]() <br>
-[115-]() <br>
-[116-]() <br>
-[117-]() <br>
-[118-]() <br>
-[119-]() <br>
-[120-]() <br>
-[121-]() <br>
-[122-]() <br>
-[123-]() <br>
-[124-]() <br>
+[113- MotionAGFormer: Enhancing 3D Human Pose Estimation with a Transformer-GCNFormer Network(2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Mehraban_MotionAGFormer_Enhancing_3D_Human_Pose_Estimation_With_a_Transformer-GCNFormer_Network_WACV_2024_paper.pdf) <br>
+[114- TrackFormer: Multi-Object Tracking with Transformers(2022)](https://arxiv.org/abs/2101.02702) <br>
+[115- 3D Trajectory Reconstruction of the Soccer Ball for Single Static Camera Systems(2013)](https://www.mva-org.jp/Proceedings/2013USB/papers/04-22.pdf) <br>
+[116- SoccerNet-Caption: Dense Video Captioning for Soccer Broadcasts Commentaries(2023)](https://arxiv.org/abs/2304.04565) <br>
+[117- Soccer video analysis by ball, player and referee tracking(2006)](https://dl.acm.org/doi/10.1145/1216262.1216268) <br>
+[118- Event-based Ball Spin Estimation in Sports(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Nakabayashi_Event-based_Ball_Spin_Estimation_in_Sports_CVPRW_2024_paper.pdf) <br>
+[119- Learning Group Activity Features Through Person Attribute Prediction(2024)](https://arxiv.org/abs/2403.02753) <br>
+[120- Running Event Visualization using Videos from Multiple Cameras(2019)](https://arxiv.org/abs/1909.02835) <br>
+[121- ASPset: An Outdoor Sports Pose Video Dataset With 3D Keypoint Annotations(2021)](http://homepage.cs.latrobe.edu.au/zhe/files/aspset_paper_preprint_newest.pdf) <br>
+[122- A Robust and Efficient Framework for Sports-Field Registration(2021)](https://openaccess.thecvf.com/content/WACV2021/papers/Nie_A_Robust_and_Efficient_Framework_for_Sports-Field_Registration_WACV_2021_paper.pdf) <br>
+[123- Rugby Scene Classification Enhanced by Vision Language Model(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Nonaka_Rugby_Scene_Classification_Enhanced_by_Vision_Language_Model_CVPRW_2024_paper.pdf) <br>
+[124- ]() <br>
 [125-]() <br>
 [126-]() <br>
 [127-]() <br>
