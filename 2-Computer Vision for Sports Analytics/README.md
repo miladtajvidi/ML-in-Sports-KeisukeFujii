@@ -168,22 +168,22 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [163- SFLNet: Direct Sports Field Localization via CNN-Based Regression(2020)](https://link.springer.com/chapter/10.1007/978-3-030-41404-7_48) <br>
 [164- Direct Prediction of 3D Body Poses from Motion Compensated Sequences(2016)](https://arxiv.org/abs/1511.06692) <br>
 [165- TVCalib: Camera Calibration for Sports Field Registration in Soccer(2023)](https://openaccess.thecvf.com/content/WACV2023/papers/Theiner_TVCalib_Camera_Calibration_for_Sports_Field_Registration_in_Soccer_WACV_2023_paper.pdf) <br>
-[166- ]() <br>
-[167-]() <br>
-[168-]() <br>
-[169-]() <br>
-[170-]() <br>
-[171-]() <br>
-[172-]() <br>
-[173-]() <br>
-[174-]() <br>
-[175-]() <br>
-[176-]() <br>
-[177-]() <br>
-[178-]() <br>
-[179-]() <br>
-[180-]() <br>
-[181-]() <br>
+[166- Computer vision for sports: Current applications and research topics(2017)](https://www.researchgate.net/publication/316477606_Computer_vision_for_sports_Current_applications_and_research_topics) <br>
+[167- DeepPose: Human Pose Estimation via Deep Neural Networks(2014)](https://arxiv.org/abs/1312.4659) <br>
+[168- Automated Offside Detection by Spatio-Temporal Analysis of Football Videos(2021)](https://dl.acm.org/doi/pdf/10.1145/3475722.3482796) <br>
+[169- Ball 3D Localization From A Single Calibrated Image(2022)](https://arxiv.org/abs/2204.00003) <br>
+[170- DeepSportradar-v1: Computer Vision Dataset for Sports Understanding with High Quality Annotations(2022)](https://arxiv.org/abs/2208.08190) <br>
+[171- Ice hockey player identification via transformers and weakly supervised learning(2022)](https://arxiv.org/abs/2111.11535) <br>
+[172- Player tracking and identification in ice hockey(2023)](https://www.sciencedirect.com/science/article/abs/pii/S0957417422022680) <br>
+[173- Learning Hierarchical Poselets for Human Parsing(2011)](https://vision.cs.uiuc.edu/humanparse/cvpr11.pdf) <br>
+[174- Simple Online and Realtime Tracking with a Deep Association Metric(2017)](https://arxiv.org/abs/1703.07402) <br>
+[175- A Comprehensive Review of Group Activity Recognition in Videos(2021)](https://link.springer.com/article/10.1007/s11633-020-1258-8) <br>
+[176- SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos(2024)](https://arxiv.org/abs/2404.04565) <br>
+[177- T-DEED: Temporal-Discriminability Enhancer Encoder-Decoder for Precise Event Spotting in Sports Videos(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Xarles_T-DEED_Temporal-Discriminability_Enhancer_Encoder-Decoder_for_Precise_Event_Spotting_in_Sports_CVPRW_2024_paper.pdf) <br>
+[178- Learning to Score Figure Skating Sport Videos(2019)](https://ieeexplore.ieee.org/document/8756030) <br>
+[179- FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment(2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf) <br>
+[180- How To Train Your Deep Multi-Object Tracker(2020)](https://arxiv.org/abs/1906.06618) <br>
+[181- ]() <br>
 [182-]() <br>
 [183-]() <br>
 [184-]() <br>
