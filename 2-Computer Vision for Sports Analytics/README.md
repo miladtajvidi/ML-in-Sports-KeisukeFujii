@@ -126,22 +126,22 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [121- ASPset: An Outdoor Sports Pose Video Dataset With 3D Keypoint Annotations(2021)](http://homepage.cs.latrobe.edu.au/zhe/files/aspset_paper_preprint_newest.pdf) <br>
 [122- A Robust and Efficient Framework for Sports-Field Registration(2021)](https://openaccess.thecvf.com/content/WACV2021/papers/Nie_A_Robust_and_Efficient_Framework_for_Sports-Field_Registration_WACV_2021_paper.pdf) <br>
 [123- Rugby Scene Classification Enhanced by Vision Language Model(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Nonaka_Rugby_Scene_Classification_Enhanced_by_Vision_Language_Model_CVPRW_2024_paper.pdf) <br>
-[124- ]() <br>
-[125-]() <br>
-[126-]() <br>
-[127-]() <br>
-[128-]() <br>
-[129-]() <br>
-[130-]() <br>
-[131-]() <br>
-[132-]() <br>
-[133-]() <br>
-[134-]() <br>
-[135-]() <br>
-[136-]() <br>
-[137-]() <br>
-[138-]() <br>
-[139-]() <br>
+[124- End-to-End High-Risk Tackle Detection System for Rugby(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Nonaka_End-to-End_High-Risk_Tackle_Detection_System_for_Rugby_CVPRW_2022_paper.pdf) <br>
+[125- Hierarchical NeuroSymbolic Approach for Comprehensive and Explainable Action Quality Assessment(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Okamoto_Hierarchical_NeuroSymbolic_Approach_for_Comprehensive_and_Explainable_Action_Quality_Assessment_CVPRW_2024_paper.pdf) <br>
+[126- Action Assessment by Joint Relation Graphs(2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Pan_Action_Assessment_by_Joint_Relation_Graphs_ICCV_2019_paper.pdf) <br>
+[127- Action Quality Assessment Across Multiple Actions(2019)](https://www.researchgate.net/publication/331590912_Action_Quality_Assessment_Across_Multiple_Actions) <br>
+[128- Learning To Score Olympic Events(2017)](https://arxiv.org/abs/1611.05125) <br>
+[129- Person Re-identification with End-to-End Scene Text Recognition(2017)](https://www.researchgate.net/publication/321661604_Person_Re-identification_with_End-to-End_Scene_Text_Recognition) <br>
+[130- TGC20ReId: A dataset for sport event re-identification in the wild(2020)](https://www.sciencedirect.com/science/article/abs/pii/S0167865520303019) <br>
+[131- Soccer Video and Player Position Dataset(2014)](https://www.researchgate.net/publication/260983291_Soccer_Video_and_Player_Position_Dataset) <br>
+[132- DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation(2016)](https://arxiv.org/abs/1511.06645) <br>
+[133- Optical tracking in team sports(2022)](https://www.researchgate.net/publication/359072957_Optical_tracking_in_team_sports) <br>
+[134- Are They Going to Cross? A Benchmark Dataset and Baseline for Pedestrian Crosswalk Behavior(2017)](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w3/Rasouli_Are_They_Going_ICCV_2017_paper.pdf) <br>
+[135- TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking(2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf) <br>
+[136- You Only Look Once: Unified, Real-Time Object Detection(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf) <br>
+[137- Learning Monocular 3D Human Pose Estimation from Multi-view Images(2018)](https://arxiv.org/abs/1803.04775) <br>
+[138- Action MACH a spatio-temporal Maximum Average Correlation Height filter for action recognition(2008)](https://www.researchgate.net/publication/221362695_Action_MACH_a_spatio-temporal_Maximum_Average_Correlation_Height_filter_for_action_recognition) <br>
+[139- Multi-person 3D pose estimation from unlabelled data(2024)](https://arxiv.org/abs/2212.08731) <br>
 [140-]() <br>
 [141-]() <br>
 [142-]() <br>
