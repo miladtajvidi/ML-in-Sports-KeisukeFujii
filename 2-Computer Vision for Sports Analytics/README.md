@@ -104,17 +104,17 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [99- Focal Loss for Dense Object Detection(2017)](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf) <br>
 [100- Group Pose: A Simple Baseline for End-to-End Multi-person Pose Estimation(2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Group_Pose_A_Simple_Baseline_for_End-to-End_Multi-Person_Pose_Estimation_ICCV_2023_paper.pdf) <br>
 [101- MonoTrack: Shuttle trajectory reconstruction from monocular badminton video(2022)](https://arxiv.org/abs/2204.01899) <br>
-[102-]() <br>
-[103-]() <br>
-[104-]() <br>
-[105-]() <br>
-[106-]() <br>
-[107-]() <br>
-[108-]() <br>
-[109-]() <br>
-[110-]() <br>
-[111-]() <br>
-[112-]() <br>
+[102- Temporal Segmentation of Fine-grained Semantic Action: A Motion-Centered Figure Skating Dataset(2021)](https://cdn.aaai.org/ojs/16314/16314-13-19808-1-2-20210518.pdf) <br>
+[103- Motion-aware and data-independent model based multi-view 3D pose refinement for volleyball spike analysis(2024)](https://www.researchgate.net/publication/373045784_Motion-aware_and_data-independent_model_based_multi-view_3D_pose_refinement_for_volleyball_spike_analysis) <br>
+[104- Light Cascaded Convolutional Neural Networks for Accurate Player Detection(2017)](https://arxiv.org/abs/1709.10230) <br>
+[105- FACT: Frame-Action Cross-Attention Temporal Modeling for Efficient Action Segmentation(2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_FACT_Frame-Action_Cross-Attention_Temporal_Modeling_for_Efficient_Action_Segmentation_CVPR_2024_paper.pdf) <br>
+[106- Football Player Detection in Video Broadcast(2010)](https://www.researchgate.net/publication/220872222_Football_Player_Detection_in_Video_Broadcast) <br>
+[107- A Universal Protocol to Benchmark Camera Calibration for Sports(2024)](https://arxiv.org/abs/2404.09807) <br>
+[108- Efficient tracking of team sport players with few game-specific annotations(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Maglo_Efficient_Tracking_of_Team_Sport_Players_With_Few_Game-Specific_Annotations_CVPRW_2022_paper.pdf) <br>
+[109- MV-Soccer: Motion-Vector Augmented Instance Segmentation for Soccer Player Tracking(2024)](https://ieeexplore.ieee.org/document/10678158) <br>
+[110- A Survey on Player Tracking in Soccer Videos(2017)](https://www.researchgate.net/publication/313358064_A_Survey_on_Player_Tracking_in_Soccer_Videos) <br>
+[111- Multi-task Learning for Joint Re-identification, Team Affiliation, and Role Classification for Sports Visual Tracking(2023)](https://arxiv.org/abs/2401.09942) <br>
+[112- A simple yet effective baseline for 3d human pose estimation(2017)](https://arxiv.org/abs/1705.03098) <br>
 [113-]() <br>
 [114-]() <br>
 [115-]() <br>
