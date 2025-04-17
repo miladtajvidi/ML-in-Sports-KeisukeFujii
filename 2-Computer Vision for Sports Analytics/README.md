@@ -183,20 +183,20 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [178- Learning to Score Figure Skating Sport Videos(2019)](https://ieeexplore.ieee.org/document/8756030) <br>
 [179- FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment(2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf) <br>
 [180- How To Train Your Deep Multi-Object Tracker(2020)](https://arxiv.org/abs/1906.06618) <br>
-[181- ]() <br>
-[182-]() <br>
-[183-]() <br>
-[184-]() <br>
-[185-]() <br>
-[186-]() <br>
-[187-]() <br>
-[188-]() <br>
-[189-]() <br>
-[190-]() <br>
-[191-]() <br>
-[192-]() <br>
-[193-]() <br>
-[194-]() <br>
-[195-]() <br>
+[181- ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation(2022)](https://arxiv.org/abs/2204.12484) <br>
+[182- Social Adaptive Module for Weakly-supervised Group Activity Recognition(2020)](https://arxiv.org/abs/2007.09470) <br>
+[183- Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space(2023)](https://arxiv.org/abs/2211.14317) <br>
+[184- Deep Learning for Person Re-identification: A Survey and Outlook(2021)](https://arxiv.org/pdf/2001.04193) <br>
+[185- AutoSoccerPose: Automated 3D posture Analysis of Soccer Shot Movements(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Yeung_AutoSoccerPose_Automated_3D_Posture_Analysis_of_Soccer_Shot_Movements_CVPRW_2024_paper.pdf) <br>
+[186- ASFormer: Transformer for Action Segmentation(2021)](https://arxiv.org/abs/2110.08568) <br>
+[187- CollectiveSports: A Multi-task dataset for collective activity recognition(2020)](https://web.cs.hacettepe.edu.tr/~nazli/publications/csports.pdf) <br>
+[188- A High Accuracy Camera Calibration Method for Sport Videos(2021)](https://www.researchgate.net/publication/357960190_A_High_Accuracy_Camera_Calibration_Method_for_Sport_Videos) <br>
+[189- A Four-Point Camera Calibration Method for Sport Videos(2023)](https://ieeexplore.ieee.org/document/10038750) <br>
+[190- Pose2Seg: Detection Free Human Instance Segmentation(2019)](https://www.researchgate.net/publication/338503885_Pose2Seg_Detection_Free_Human_Instance_Segmentation) <br>
+[191- ByteTrack: Multi-Object Tracking by Associating Every Detection Box(2022)](https://arxiv.org/abs/2110.06864) <br>
+[192- ]() <br>
+[193- DanceMVP: Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting(2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28893) <br>
+[194- Omni-Scale Feature Learning for Person Re-Identification(2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Omni-Scale_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf) <br>
+[195- Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection(2021)](https://arxiv.org/abs/2106.14447) <br>
 
 
