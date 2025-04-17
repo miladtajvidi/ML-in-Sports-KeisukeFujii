@@ -59,32 +59,32 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [54- Towards Active Learning for Action Spotting in Association Football Videos(2023)](https://arxiv.org/abs/2304.04220) <br>
 [55- Temporally-Aware Feature Pooling for Action Spotting in Soccer Broadcasts(2021)](https://arxiv.org/abs/2104.06779) <br>
 [56- Tracking the Spin on a Ping Pong Ball with the Quaternion Bingham Filter(2014)](https://lis.csail.mit.edu/pubs/glover-icra14.pdf) <br>
-[57-]() <br>
-[58-]() <br>
-[59-]() <br>
-[60-]() <br>
-[61-]() <br>
-[62-]() <br>
-[63-]() <br>
-[64-]() <br>
-[65-]() <br>
-[66-]() <br>
-[67-]() <br>
-[68-]() <br>
-[69-]() <br>
-[70-]() <br>
-[71-]() <br>
-[72-]() <br>
-[73-]() <br>
-[74-]() <br>
-[75-]() <br>
-[76-]() <br>
-[77-]() <br>
-[78-]() <br>
-[79-]() <br>
-[80-]() <br>
-[81-]() <br>
-[82-]() <br>
+[57- Table tennis ball spin estimation with an event camera(2024)](https://arxiv.org/abs/2404.09870) <br>
+[58- No Bells, Just Whistles:Sports Field Registration by Leveraging Geometric Properties(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Gutierrez-Perez_No_Bells_Just_Whistles_Sports_Field_Registration_by_Leveraging_Geometric_CVPRW_2024_paper.pdf) <br>
+[59- CLIP-ReIdent: Contrastive Training for Player Re-Identification(2022)](https://arxiv.org/abs/2303.11855) <br>
+[60- Multiple View Geometry in Computer Vision(2003)](https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A) <br>
+[61- A Modular Multi-Camera Framework for Team Sports Tracking(2005)](https://iis.uibk.ac.at/public/papers/Hayet-2005-AVSS.pdf) <br>
+[62- Deep residual learning for image recognition(2016)](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) <br>
+[63- TransReID: Transformer-based Object Re-Identification(2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/He_TransReID_Transformer-Based_Object_Re-Identification_ICCV_2021_paper.pdf) <br>
+[64- VARS: Video Assistant Referee System for Automated Soccer Decision Making from Multiple Views(2023)](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Held_VARS_Video_Assistant_Referee_System_for_Automated_Soccer_Decision_Making_CVPRW_2023_paper.pdf) <br>
+[65- X-VARS: Introducing Explainability in Football Refereeing with Multi-Modal Large Language Model(2024)](https://arxiv.org/abs/2404.06332) <br>
+[66- Going Deeper into Action Recognition: A Survey(2017)](https://arxiv.org/abs/1605.04988) <br>
+[67- Sports Field Localization via Deep Structured Models(2017)](https://openaccess.thecvf.com/content_cvpr_2017/papers/Homayounfar_Sports_Field_Localization_CVPR_2017_paper.pdf) <br>
+[68- Pass Receiver Prediction in Soccer using Video and Players’ Trajectories(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Honda_Pass_Receiver_Prediction_in_Soccer_Using_Video_and_Players_Trajectories_CVPRW_2022_paper.pdf) <br>
+[69- Spotting Temporally Precise, Fine-Grained Events in Video(2022)](https://arxiv.org/abs/2207.10213) <br>
+[70- Computational Foresight: Forecasting Human Body Motion in Real-time for Reducing Delays in Interactive System(2017)](https://dl.acm.org/doi/10.1145/3132272.3135076) <br>
+[71- Basketball-SORT: An Association Method for Complex Multi-object Occlusion Problems in Basketball Multi-object Tracking(2024)](https://arxiv.org/abs/2406.19655) <br>
+[72- Pose2uv: single-shot multiperson mesh recovery with deep uv prior(2022)](https://www.yangangwang.com/papers/HBZ-pose2uv-2022-06.pdf) <br>
+[73- Observation Centric and Central Distance Recovery for Athlete Tracking(2023)](https://openaccess.thecvf.com/content/WACV2023W/CV4WS/papers/Huang_Observation_Centric_and_Central_Distance_Recovery_for_Athlete_Tracking_WACVW_2023_paper.pdf) <br>
+[74- Iterative Scale-Up ExpansionIoU and Deep Features Association for Multi-Object Tracking in Sports(2023)](https://arxiv.org/abs/2306.13074) <br>
+[75- A Hierarchical Deep Temporal Model for Group Activity Recognition(2016)](https://arxiv.org/abs/1511.06040) <br>
+[76- A Hierarchical Deep Temporal Model for Group Activity Recognition(2016) ](https://arxiv.org/abs/1511.06040) <br>
+[77- SportsPose - A Dynamic 3D sports pose dataset(2023)](https://openaccess.thecvf.com/content/CVPR2023W/CVSports/papers/Ingwersen_SportsPose_-_A_Dynamic_3D_Sports_Pose_Dataset_CVPRW_2023_paper.pdf) <br>
+[78- Learnable Triangulation of Human Pose(2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Iskakov_Learnable_Triangulation_of_Human_Pose_ICCV_2019_paper.pdf) <br>
+[79- Automatic player position detection in basketball games(2013)](https://link.springer.com/article/10.1007/s11042-013-1580-z) <br>
+[80- Foul prediction with estimated poses from soccer broadcast video(2024)](https://arxiv.org/abs/2402.09650) <br>
+[81- Optimizing Through Learned Errors for Accurate Sports Field Registration(2020)](https://arxiv.org/abs/1909.08034) <br>
+[82- SoccerDB: A Large-Scale Database for Comprehensive Video Understanding(2020)](https://arxiv.org/abs/1912.04465) <br>
 [83-]() <br>
 [84-]() <br>
 [85-]() <br>
