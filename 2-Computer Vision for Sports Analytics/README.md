@@ -142,24 +142,24 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [137- Learning Monocular 3D Human Pose Estimation from Multi-view Images(2018)](https://arxiv.org/abs/1803.04775) <br>
 [138- Action MACH a spatio-temporal Maximum Average Correlation Height filter for action recognition(2008)](https://www.researchgate.net/publication/221362695_Action_MACH_a_spatio-temporal_Maximum_Average_Correlation_Height_filter_for_action_recognition) <br>
 [139- Multi-person 3D pose estimation from unlabelled data(2024)](https://arxiv.org/abs/2212.08731) <br>
-[140-]() <br>
-[141-]() <br>
-[142-]() <br>
-[143-]() <br>
-[144-]() <br>
-[145-]() <br>
-[146-]() <br>
-[147-]() <br>
-[148-]() <br>
-[149-]() <br>
-[150-]() <br>
-[151-]() <br>
-[152-]() <br>
-[153-]() <br>
-[154-]() <br>
-[155-]() <br>
-[156-]() <br>
-[157-]() <br>
+[140- Leveraging Human Pose Estimation Model for Stroke Classification in Table Tennis(2020)](https://ceur-ws.org/Vol-2882/paper17.pdf) <br>
+[141- TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos(2024)](https://arxiv.org/abs/2404.13868) <br>
+[142- SoccerTrack: A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos(2022)](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Scott_SoccerTrack_A_Dataset_and_Tracking_Algorithm_for_Soccer_With_Fish-Eye_CVPRW_2022_paper.pdf) <br>
+[143- Part-based Player Identification using Deep Convolutional Representation and Multi-scale Pooling(2018)](https://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w34/Senocak_Part-Based_Player_Identification_CVPR_2018_paper.pdf) <br>
+[144- Survey of Action Recognition, Spotting and Spatio-Temporal Localization in Soccer -- Current Trends and Research Perspectives(2023)](https://arxiv.org/abs/2309.12067) <br>
+[145- End-to-End Camera Calibration for Broadcast Videos(2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sha_End-to-End_Camera_Calibration_for_Broadcast_Videos_CVPR_2020_paper.pdf) <br>
+[146- FineGym: A Hierarchical Video Dataset for Fine-grained Action Understanding(2020)](https://arxiv.org/abs/2004.06704) <br>
+[147- Automated Top View Registration of Broadcast Football Videos(2017)](https://arxiv.org/abs/1703.01437) <br>
+[148- AAFormer: A Multi-Modal Transformer Network for Aerial Agricultural Images(2022)](https://openaccess.thecvf.com/content/CVPR2022W/AgriVision/papers/Shen_AAFormer_A_Multi-Modal_Transformer_Network_for_Aerial_Agricultural_Images_CVPRW_2022_paper.pdf) <br>
+[149- End-to-End Multi-Person Pose Estimation with Transformers(2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf) <br>
+[150- SoccerNet Game State Reconstruction: End-to-End Athlete Tracking and Identification on a Minimap(2024)](https://arxiv.org/abs/2404.11335) <br>
+[151- Prediction of Volleyball Trajectory Using Skeletal Motions of Setter Player(2019)](https://dl.acm.org/doi/pdf/10.1145/3311823.3311844) <br>
+[152- Going for GOAL: A Resource for Grounded Football Commentaries(2022)](https://arxiv.org/abs/2211.04534) <br>
+[153- Deep High-Resolution Representation Learning for Human Pose Estimation(2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.pdf) <br>
+[154- DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion(2022)](https://arxiv.org/abs/2111.14690) <br>
+[155- TransTrack: Multiple Object Tracking with Transformer(2020)](https://arxiv.org/abs/2012.15460) <br>
+[156- Automatic fault detection in race walking from a smartphone camera via fine-tuning pose estimation(2022)](https://www.researchgate.net/publication/367263475_Automatic_fault_detection_in_race_walking_from_a_smartphone_camera_via_fine-tuning_pose_estimation) <br>
+[157- Automatic Detection of Faults in Simulated Race Walking from a Fixed Smartphone Camera(2024)](https://www.researchgate.net/publication/379952686_Automatic_Detection_of_Faults_in_Simulated_Race_Walking_from_a_Fixed_Smartphone_Camera) <br>
 [158-]() <br>
 [159-]() <br>
 [160-]() <br>
