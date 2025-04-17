@@ -160,15 +160,15 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [155- TransTrack: Multiple Object Tracking with Transformer(2020)](https://arxiv.org/abs/2012.15460) <br>
 [156- Automatic fault detection in race walking from a smartphone camera via fine-tuning pose estimation(2022)](https://www.researchgate.net/publication/367263475_Automatic_fault_detection_in_race_walking_from_a_smartphone_camera_via_fine-tuning_pose_estimation) <br>
 [157- Automatic Detection of Faults in Simulated Race Walking from a Fixed Smartphone Camera(2024)](https://www.researchgate.net/publication/379952686_Automatic_Detection_of_Faults_in_Simulated_Race_Walking_from_a_Fixed_Smartphone_Camera) <br>
-[158-]() <br>
-[159-]() <br>
-[160-]() <br>
-[161-]() <br>
-[162-]() <br>
-[163-]() <br>
-[164-]() <br>
-[165-]() <br>
-[166-]() <br>
+[158- Pseudo-label based unsupervised fine-tuning of a monocular 3D pose estimation model for sports motions(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Suzuki_Pseudo-label_Based_Unsupervised_Fine-tuning_of_a_Monocular_3D_Pose_Estimation_CVPRW_2024_paper.pdf) <br>
+[159- Runner re-identification from single-view running video in the open-world setting(2024)](https://arxiv.org/abs/2310.11700) <br>
+[160- Hierarchical Spatial-Temporal Network for Skeleton-Based Temporal Action Segmentation(2023)](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_3) <br>
+[161- 3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach(2024)](https://arxiv.org/abs/2408.16638) <br>
+[162- Automatic Edge Error Judgment in Figure Skating Using 3D Pose Estimation from a Monocular Camera and IMUs(2023)](https://arxiv.org/abs/2310.17193) <br>
+[163- SFLNet: Direct Sports Field Localization via CNN-Based Regression(2020)](https://link.springer.com/chapter/10.1007/978-3-030-41404-7_48) <br>
+[164- Direct Prediction of 3D Body Poses from Motion Compensated Sequences(2016)](https://arxiv.org/abs/1511.06692) <br>
+[165- TVCalib: Camera Calibration for Sports Field Registration in Soccer(2023)](https://openaccess.thecvf.com/content/WACV2023/papers/Theiner_TVCalib_Camera_Calibration_for_Sports_Field_Registration_in_Soccer_WACV_2023_paper.pdf) <br>
+[166- ]() <br>
 [167-]() <br>
 [168-]() <br>
 [169-]() <br>
