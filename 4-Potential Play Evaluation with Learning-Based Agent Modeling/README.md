@@ -11,21 +11,21 @@
 [9- Deep Reinforcement Learning in a Racket Sport for Player Evaluation With Technical and Tactical Contexts(2022)](https://www.researchgate.net/publication/360647085_Deep_Reinforcement_Learning_in_a_Racket_Sport_for_Player_Evaluation_With_Technical_and_Tactical_Contexts) <br>
 [10- Minimax on the Gridiron: Serial Correlation and Its Effects on Outcomes in the National Football League(2014)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2502193) <br>
 [11- SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference(2019)](https://arxiv.org/abs/1910.06591) <br>
-[12-]() <br>
-[13-]() <br>
-[14-]() <br>
-[15-]() <br>
-[16-]() <br>
-[17-]() <br>
-[18-]() <br>
-[19-]() <br>
-[20-]() <br>
-[21-]() <br>
-[22-]() <br>
-[23-]() <br>
-[24-]() <br>
-[25-]() <br>
-[26-]() <br>
+[12- The Strain of Success: A Predictive Model for Injury Risk Mitigation and Team Success in Soccer(2024)](https://arxiv.org/abs/2402.04898) <br>
+[13- Decentralized policy learning with partial observation and mechanical constraints for multiperson modeling(2024)](https://arxiv.org/abs/2007.03155) <br>
+[14- Estimating counterfactual treatment outcomes over time in multi-vehicle simulation(2022)](https://dl.acm.org/doi/10.1145/3557915.3560941) <br>
+[15- Adaptive action supervision in reinforcement learning from real-world multi-agent demonstrations(2024)](https://arxiv.org/abs/2305.13030) <br>
+[16- Deep Q-Learning from Demonstrations(2018)](https://cdn.aaai.org/ojs/11757/11757-13-15285-1-2-20201228.pdf) <br>
+[17- RoboCup: the Robot World Cup Initiative(1997)](https://www.researchgate.net/publication/2260541_RoboCup_the_Robot_World_Cup_Initiative) <br>
+[18- Google Research Football: A Novel Reinforcement Learning Environment(2020)](https://ojs.aaai.org/index.php/AAAI/article/view/5878) <br>
+[19- A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning(2017)](https://arxiv.org/abs/1711.00832) <br>
+[20- Data-Driven Ghosting using Deep Imitation Learning(2017)](https://www.sloansportsconference.com/research-papers/data-driven-ghosting-using-deep-imitation-learning) <br>
+[21- Coordinated Multi-Agent Imitation Learning(2017)](https://arxiv.org/abs/1703.03121) <br>
+[22- SoccerNet-Depth: a Scalable Dataset for Monocular Depth Estimation in Sports Videos(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Leduc_SoccerNet-Depth_a_Scalable_Dataset_for_Monocular_Depth_Estimation_in_Sports_CVPRW_2024_paper.pdf) <br>
+[23- Game Intelligence in Team Sports(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125453) <br>
+[24- Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems(2020)](https://arxiv.org/abs/2005.01643) <br>
+[25- Testing Mixed-Strategy Equilibria When Players Are Heterogeneous: The Case of Penalty Kicks in Soccer(2002)](https://pricetheory.uchicago.edu/levitt/Papers/ChiapporiGrosecloseLevitt2002.pdf) <br>
+[26- ]() <br>
 [27-]() <br>
 [28-]() <br>
 [29-]() <br>
