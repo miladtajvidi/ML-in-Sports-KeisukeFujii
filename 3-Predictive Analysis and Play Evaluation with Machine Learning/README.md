@@ -152,21 +152,22 @@ a critical comparison of xT and VAEP(2020)](https://lirias.kuleuven.be/retrieve/
 [148- TacticAI: an AI assistant for football tactics(2024)](https://www.researchgate.net/publication/379081056_TacticAI_an_AI_assistant_for_football_tactics) <br>
 [149- Effective and Efficient Sports Play Retrieval with Deep Representation Learning(2019)](https://zhengwang125.github.io/paper/play2vec.pdf) <br>
 [150- Rethinking Trajectory Prediction via "Team Game"(2022)](https://arxiv.org/abs/2210.08793) <br>
-[151- ]() <br>
-[152-]() <br>
-[153-]() <br>
-[154-]() <br>
-[155-]() <br>
-[156-]() <br>
-[157-]() <br>
-[158-]() <br>
-[159-]() <br>
-[160-]() <br>
-[161-]() <br>
-[162-]() <br>
-[163-]() <br>
-[164-]() <br>
-[165-]() <br>
-[166-]() <br>
-[167-]() <br>
-[168-]() <br>
+[151- Perceptual skill in soccer: Implications for talent identification and development(2000)](https://www.tandfonline.com/doi/abs/10.1080/02640410050120113) <br>
+[152- A contextual analysis of crossing the ball in soccer(2020)](https://www.researchgate.net/publication/346195459_A_contextual_analysis_of_crossing_the_ball_in_soccer) <br>
+[153- OBTracker: Visual Analytics of Off-ball Movements in Basketball(2023)](https://ssxiexiao.github.io/papers/OBTracker.pdf) <br>
+[154- What was lost? A causal estimate of fourth down behavior in the National Football League(2019)](https://www.researchgate.net/publication/334016501_What_was_lost_A_causal_estimate_of_fourth_down_behavior_in_the_National_Football_League) <br>
+[155- Offensive Lineup Analysis in Basketball with Clustering Players Based on Shooting Style and Offensive Role(2024)](https://arxiv.org/abs/2403.13821) <br>
+[156- Common and Unique Network Dynamics in Football Games(2011)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029638) <br>
+[157- Diverse Generation for Multi-agent Sports Games(2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yeh_Diverse_Generation_for_Multi-Agent_Sports_Games_CVPR_2019_paper.pdf) <br>
+[158- Evaluating Soccer Match Prediction Models: A Deep Learning Approach and Feature Optimization for Gradient-Boosted Trees(2024)](https://arxiv.org/abs/2309.14807) <br>
+[159- A Strategic Framework for Optimal Decisions in Football 1-vs-1 Shot-Taking Situations: An Integrated Approach of Machine Learning, Theory-Based Modeling, and Game Theory(2024)](https://arxiv.org/abs/2307.14732) <br>
+[160- AutoSoccerPose: Automated 3D posture Analysis of Soccer Shot Movements(2024)](https://openaccess.thecvf.com/content/CVPR2024W/CVsports/papers/Yeung_AutoSoccerPose_Automated_3D_Posture_Analysis_of_Soccer_Shot_Movements_CVPRW_2024_paper.pdf) <br>
+[161- Transformer-Based Neural Marked Spatio Temporal Point Process Model for Football Match Events Analysis(2023)](https://arxiv.org/abs/2302.09276) <br>
+[162- Three People Can Synchronize as Coupled Oscillators during Sports Activities(2011)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002181) <br>
+[163- Learning Fine-Grained Spatial Models for Dynamic
+Sports Play Prediction(2014)](http://www.yisongyue.com/publications/icdm2014_bball_predict.pdf) <br>
+[164- Going deep: models for continuous-time within-play valuation of game outcomes in American football with tracking data(2020)](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2019-0056/html) <br>
+[165- Generating Multi-Agent Trajectories using Programmatic Weak Supervision(2019)](https://arxiv.org/abs/1803.07612) <br>
+[166- Multi-Agent Deep-Learning Based Comparative Analysis of Team Sport Trajectories(2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10106251) <br>
+[167- Generating Long-term Trajectories Using Deep Hierarchical Networks(2016)](https://papers.nips.cc/paper_files/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf) <br>
+[168- Cooperative play classification in team sports via semi-supervised learning(2022)](https://www.researchgate.net/publication/365453285_Cooperative_play_classification_in_team_sports_via_semi-supervised_learning) <br>
