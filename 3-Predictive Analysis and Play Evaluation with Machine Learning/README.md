@@ -136,22 +136,23 @@ and	an improved	method	for	shooter	evaluation(2018)](https://jvlone.com/sportsdo
 [133- Trajectory prediction with imitation learning reflecting defensive evaluation in team sports(2020)](https://ieeexplore.ieee.org/document/9291841) <br>
 [134- Evaluation of creating scoring opportunities for teammates in soccer via trajectory prediction(2022)](https://arxiv.org/abs/2206.01899) <br>
 [135- Evaluation of soccer team defense based on prediction models of ball recovery and being attacked: A pilot study(2022)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263051) <br>
-[136- FROM GRAPES AND PRUNES TO APPLES AND APPLES: USING MATCHED METHODS TO ESTIMATE OPTIMAL ZONE ENTRY DECISION-MAKING IN THE NATIONAL HOCKEY LEAGUE(2019)](https://rpubs.com/atoumi/zone-entries-nhl) <br>
+[136- From Grapes And Prunes to Apples And Apples: Using Matched Methods to Estimate Optimal Zzone Entry Decision-Making in The National Hockey League(2019)](https://rpubs.com/atoumi/zone-entries-nhl) <br>
 [137- Spatiotemporal coordination patterns in futsal (indoor football) are guided by informational game constraints(2012)](https://www.researchgate.net/publication/216588713_Spatiotemporal_coordination_patterns_in_futsal_indoor_football_are_guided_by_informational_game_constraints) <br>
-[138- ]() <br>
-[139-]() <br>
-[140-]() <br>
-[141-]() <br>
-[142-]() <br>
-[143-]() <br>
-[144-]() <br>
-[145-]() <br>
-[146-]() <br>
-[147-]() <br>
-[148-]() <br>
-[149-]() <br>
-[150-]() <br>
-[151-]() <br>
+[138- Evaluation of Team Defense Positioning by Computing Counterfactuals using StatsBomb 360 data(2023)](https://statsbomb.com/wp-content/uploads/2023/10/Evaluation-of-Team-Defense-Positioning-by-Computing-Counterfactuals-Using-StatsBomb-360-Data.pdf) <br>
+[139- Visualizing Data using t-SNE(2008)](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf) <br>
+[140- ETSY: A Rule-Based Approach to Event and Tracking Data SYnchronization(2024)](https://lirias.kuleuven.be/retrieve/731472) <br>
+[141- Optimally disrupting opponent build-ups(2021)](https://lirias.kuleuven.be/retrieve/640308) <br>
+[142- Valuing on-the-ball actions in soccer:
+a critical comparison of xT and VAEP(2020)](https://lirias.kuleuven.be/retrieve/558069) <br>
+[143- Spatial-temporal constraints on decision-making during shooting performance in the team sport of futsal(2013)](https://www.researchgate.net/publication/233938168_Spatial-temporal_constraints_on_decision-making_during_shooting_performance_in_the_team_sport_of_futsal) <br>
+[144- Estimating the effect of plate discipline using a causal inference framework: an application of the G-computation algorithm(2018)](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2016-0029/html?lang=en) <br>
+[145- Classifying NBA Offensive Plays Using Neural Networks(2016)](https://www.cs.toronto.edu/~zemel/documents/1536-Classifying-NBA-Offensive-Plays-Using-Neural-Networks.pdf) <br>
+[146- Discerning Tactical Patterns for Professional Soccer Teams: An Enhanced Topic Model with Applications(2015)](https://www.researchgate.net/publication/285435708_Discerning_Tactical_Patterns_for_Professional_Soccer_Teams_An_Enhanced_Topic_Model_with_Applications) <br>
+[147- HoopTransformer: Advancing NBA Offensive Play Recognition with Self-Supervised Learning from Player Trajectories(2024)](https://www.researchgate.net/publication/381006514_HoopTransformer_Advancing_NBA_Offensive_Play_Recognition_with_Self-Supervised_Learning_from_Player_Trajectories) <br>
+[148- TacticAI: an AI assistant for football tactics(2024)](https://www.researchgate.net/publication/379081056_TacticAI_an_AI_assistant_for_football_tactics) <br>
+[149- Effective and Efficient Sports Play Retrieval with Deep Representation Learning(2019)](https://zhengwang125.github.io/paper/play2vec.pdf) <br>
+[150- Rethinking Trajectory Prediction via "Team Game"(2022)](https://arxiv.org/abs/2210.08793) <br>
+[151- ]() <br>
 [152-]() <br>
 [153-]() <br>
 [154-]() <br>
