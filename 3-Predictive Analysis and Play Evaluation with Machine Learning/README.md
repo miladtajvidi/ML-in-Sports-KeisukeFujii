@@ -123,22 +123,22 @@ and	an improved	method	for	shooter	evaluation(2018)](https://jvlone.com/sportsdo
 [120- Masked Autoencoder Pretraining for Event Classification in Elite Soccer(2023)](https://www.researchgate.net/publication/378474692_Masked_Autoencoder_Pretraining_for_Event_Classification_in_Elite_Soccer) <br>
 [121- Exploring Game Performance in the National Basketball Association Using Player Tracking Data(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132894) <br>
 [122- Simulating Defensive Trajectories in American Football for Predicting League Average Defensive Movements(2021)](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.669845/full) <br>
-[123- ]() <br>
-[124-]() <br>
-[125-]() <br>
-[126-]() <br>
-[127-]() <br>
-[128-]() <br>
-[129-]() <br>
-[130-]() <br>
-[131-]() <br>
-[132-]() <br>
-[133-]() <br>
-[134-]() <br>
-[135-]() <br>
-[136-]() <br>
-[137-]() <br>
-[138-]() <br>
+[123- Bhostgusters: Realtime Interactive Play Sketching with Synthesized NBA Defenses(2018)](https://www.researchgate.net/publication/323446774_Bhostgusters_Realtime_Interactive_Play_Sketching_with_Synthesized_NBA_Defenses) <br>
+[124- Representing and predicting multi-agent data in adversarial team sports(2018)](https://eprints.qut.edu.au/116506/) <br>
+[125- Chalkboarding: A New Spatiotemporal Query Paradigm for Sports Play Retrieval(2016)](https://studios.disneyresearch.com/wp-content/uploads/2016/03/Chalkboarding_A-New-Spatiotemporal-Query-Paradigm-for-Sports-Play-Retrieval.pdf) <br>
+[126- Seq2Event: Learning the Language of Soccer using Transformer-based Match Event Prediction(2022)](https://eprints.soton.ac.uk/458099/1/KDD22_paper_CReady_v20220606.pdf) <br>
+[127- Beyond Expected Goals(2018)](https://www.researchgate.net/publication/327139841_Beyond_Expected_Goals) <br>
+[128- Evaluating the Efficiency of Off-Ball Screens in Elite Basketball Teams via Second-Order Markov Modelling(2021)](https://www.mdpi.com/2227-7390/9/16/1991) <br>
+[129- Predicting the Present and Future States of Multi-agent Systems from Partially-observed Visual Data(2019)](https://paperswithcode.com/paper/predicting-the-present-and-future-states-of) <br>
+[130- Modeling the Offensive-Defensive Interaction and Resulting Outcomes in Basketball(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144435) <br>
+[131- Fréchet Kernel for Trajectory Data Analysis(2021)](https://dl.acm.org/doi/pdf/10.1145/3474717.3483949) <br>
+[132- Development of motion analysis system for quantitative evaluation of teamwork in soccer games(1996)](https://ieeexplore.ieee.org/document/560865) <br>
+[133- Trajectory prediction with imitation learning reflecting defensive evaluation in team sports(2020)](https://ieeexplore.ieee.org/document/9291841) <br>
+[134- Evaluation of creating scoring opportunities for teammates in soccer via trajectory prediction(2022)](https://arxiv.org/abs/2206.01899) <br>
+[135- Evaluation of soccer team defense based on prediction models of ball recovery and being attacked: A pilot study(2022)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0263051) <br>
+[136- FROM GRAPES AND PRUNES TO APPLES AND APPLES: USING MATCHED METHODS TO ESTIMATE OPTIMAL ZONE ENTRY DECISION-MAKING IN THE NATIONAL HOCKEY LEAGUE(2019)](https://rpubs.com/atoumi/zone-entries-nhl) <br>
+[137- Spatiotemporal coordination patterns in futsal (indoor football) are guided by informational game constraints(2012)](https://www.researchgate.net/publication/216588713_Spatiotemporal_coordination_patterns_in_futsal_indoor_football_are_guided_by_informational_game_constraints) <br>
+[138- ]() <br>
 [139-]() <br>
 [140-]() <br>
 [141-]() <br>
