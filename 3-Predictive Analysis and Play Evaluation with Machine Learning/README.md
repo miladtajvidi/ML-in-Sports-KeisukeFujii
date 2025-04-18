@@ -22,28 +22,28 @@
 [20- Determining the level of ability of football teams by dynamic ratings based on the relative discrepancies in scores between adversaries(2013)](https://www.researchgate.net/publication/236944354_Determining_the_level_of_ability_of_football_teams_by_dynamic_ratings_based_on_the_relative_discrepancies_in_scores_between_adversaries) <br>
 [21- Prospective information for pass decisional behavior in rugby union(2011)](https://www.sciencedirect.com/science/article/abs/pii/S0167945710001028) <br>
 [22- Actions Speak Louder Than Goals: Valuing Player Actions in Soccer(2019)](https://arxiv.org/abs/1802.07127) <br>
-[23- ]() <br>
-[24-]() <br>
-[25-]() <br>
-[26-]() <br>
-[27-]() <br>
-[28-]() <br>
-[29-]() <br>
-[30-]() <br>
-[31-]() <br>
-[32-]() <br>
-[33-]() <br>
-[34-]() <br>
-[35-]() <br>
-[36-]() <br>
-[37-]() <br>
-[38-]() <br>
-[39-]() <br>
-[40-]() <br>
-[41-]() <br>
-[42-]() <br>
-[43-]() <br>
-[44-]() <br>
+[23- Player Vectors: Characterizing Soccer Players’ Playing Style from Match Event Streams(2019)](https://www.ecmlpkdd2019.org/downloads/paper/701.pdf) <br>
+[24- Automatic Discovery of Tactics in Spatio-Temporal Soccer Match Data(2018)](https://people.cs.kuleuven.be/~jesse.davis/decroos-kdd18.pdf) <br>
+[25- Expected Hypothetical Completion Probability(2020)](https://arxiv.org/abs/1910.12337) <br>
+[26- Who can receive the pass? A computational model for quantifying availability in soccer(2022)](https://www.researchgate.net/publication/359410635_Who_can_receive_the_pass_A_computational_model_for_quantifying_availability_in_soccer) <br>
+[27- Rating Player Actions in Soccer(2021)](https://pure.tue.nl/ws/portalfiles/portal/192544381/fspor_03_682986.pdf) <br>
+[28- Estimation of control area in badminton doubles with pose information from top and back view drone videos(2024)](https://arxiv.org/abs/2305.04247) <br>
+[29- Modelling association football scores and inefficiencies in the football betting market(1997)](https://www.ajbuckeconbikesail.net/wkpapers/Airports/MVPoisson/soccer_betting.pdf) <br>
+[30- The Open International Soccer Database for machine learning(2019)](https://www.researchgate.net/publication/326307561_The_Open_International_Soccer_Database_for_machine_learning) <br>
+[31- Toward Automatically Labeling Situations in Soccer(2021)](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.725431/full) <br>
+[32- Semi-Supervised Generative Models for Multi-Agent Trajectories(2022)](https://proceedings.neurips.cc/paper_files/paper/2022/file/f1fb6b2746332167f6670655372186cb-Paper-Conference.pdf) <br>
+[33- Where Will They Go? Predicting Fine-Grained Adversarial Multi-Agent Motion using Conditional Variational Autoencoders(2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Panna_Felsen_Where_Will_They_ECCV_2018_paper.pdf) <br>
+[34- Wide Open Spaces: A statistical technique for measuring space creation in professional soccer(2018)](https://www.researchgate.net/publication/324942294_Wide_Open_Spaces_A_statistical_technique_for_measuring_space_creation_in_professional_soccer) <br>
+[35- Decomposing the Immeasurable Sport: A deep learning expected possession value framework for soccer(2019)](https://www.sloansportsconference.com/research-papers/decomposing-the-immeasurable-sport-a-deep-learning-expected-possession-value-framework-for-soccer) <br>
+[36- The use of player tracking data to analyze defensive play in professional soccer-A scoping review(2022)](https://pure.rug.nl/ws/portalfiles/portal/258896058/17479541221075734.pdf) <br>
+[37- Koopman Spectral Kernels for Comparing Complex Dynamics: Application to Multiagent Sport Plays(2017)](http://ecmlpkdd2017.ijs.si/papers/paperID359.pdf) <br>
+[38- Mutual and asynchronous anticipation and action in sports as globally competitive and locally coordinative dynamics(2015)](https://www.researchgate.net/publication/283506289_Mutual_and_asynchronous_anticipation_and_action_in_sports_as_globally_competitive_and_locally_coordinative_dynamics) <br>
+[39- Prediction and classification in equation-free collective motion dynamics(2018)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006545) <br>
+[40- Physically-interpretable classification of biological network dynamics for complex collective motions(2020)](https://arxiv.org/abs/1905.04859) <br>
+[41- Decentralized policy learning with partial observation and mechanical constraints for multiperson modeling(2023)](https://arxiv.org/abs/2007.03155) <br>
+[42- Estimating counterfactual treatment outcomes over time in complex multiagent scenarios(2024)](https://arxiv.org/abs/2206.01900) <br>
+[43- Strategies for defending a dribbler: categorisation of three defensive patterns in 1-on-1 basketball(2014)](https://www.researchgate.net/publication/265474795_Strategies_for_defending_a_dribbler_categorisation_of_three_defensive_patterns_in_1-on-1_basketball) <br>
+[44- Resilient help to switch and overlap hierarchical subsystems in a small human group(2016)](https://www.researchgate.net/publication/299769568_Resilient_help_to_switch_and_overlap_hierarchical_subsystems_in_a_small_human_group) <br>
 [45-]() <br>
 [46-]() <br>
 [47-]() <br>
