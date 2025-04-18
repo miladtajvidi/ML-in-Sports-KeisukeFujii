@@ -71,35 +71,36 @@
 [69- Emergence of self-similarity in football dynamics(2014)](https://arxiv.org/abs/1402.0912) <br>
 [70- The Attacking Process in Football: A Taxonomy for Classifying How Teams Create Goal Scoring Opportunities Using a Case Study of Crystal Palace FC(2019)](https://www.researchgate.net/publication/336578142_The_Attacking_Process_in_Football_A_Taxonomy_for_Classifying_How_Teams_Create_Goal_Scoring_Opportunities_Using_a_Case_Study_of_Crystal_Palace_FC) <br>
 [71- Neural Relational Inference for Interacting Systems(2018)](https://arxiv.org/abs/1802.04687) <br>
-[72- ]() <br>
-[73-]() <br>
-[74-]() <br>
-[75-]() <br>
-[76-]() <br>
-[77-]() <br>
-[78-]() <br>
-[79-]() <br>
-[80-]() <br>
-[81-]() <br>
-[82-]() <br>
-[83-]() <br>
-[84-]() <br>
-[85-]() <br>
-[86-]() <br>
-[87-]() <br>
-[88-]() <br>
-[89-]() <br>
-[90-]() <br>
-[91-]() <br>
-[92-]() <br>
-[93-]() <br>
-[94-]() <br>
-[95-]() <br>
-[96-]() <br>
-[97-]() <br>
-[98-]() <br>
-[99-]() <br>
-[100-]() <br>
+[72- Machine-Learning-Based Statistical Arbitrage Football Betting(2019)](https://www.researchgate.net/publication/334433250_Machine-Learning-Based_Statistical_Arbitrage_Football_Betting) <br>
+[73- Score prediction using multiple object tracking for analyzing movements in 2-vs-2 Handball(2023)](https://www.researchgate.net/publication/375704146_Score_prediction_using_multiple_object_tracking_for_analyzing_movements_in_2-vs-2_Handball) <br>
+[74- Mathematical models for off-ball scoring prediction in basketball(2024)](https://arxiv.org/abs/2406.08749) <br>
+[75- Styles of play in professional soccer: an approach of the Chinese Soccer Super League(2017)](https://www.researchgate.net/publication/322779148_Styles_of_play_in_professional_soccer_an_approach_of_the_Chinese_Soccer_Super_League) <br>
+[76- Modeling the Offensive-Defensive Interaction and Resulting Outcomes in Basketball(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144435) <br>
+[77- Coordinated Multi-Agent Imitation Learning(2017)](https://arxiv.org/abs/1703.03121) <br>
+[78- Real Time Quantification of Dangerousity in Football Using Spatiotemporal Tracking Data(2016)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0168768) <br>
+[79- The right place at the right time: Advanced off-ball metrics for exploiting an opponent’s spatial weakenesses in soccer(2020)](https://www.sloansportsconference.com/research-papers/the-right-place-at-the-right-time-advanced-off-ball-metrics-for-exploiting-an-opponents-spatial-weakenesses-in-soccer) <br>
+[80- “Quality vs Quantity”: Improved Shot Prediction in Soccer using Strategic Features from Spatiotemporal Data(2014)](https://www.sloansportsconference.com/research-papers/quality-vs-quantity-improved-shot-prediction-in-soccer-using-strategic-features-from-spatiotemporal-data) <br>
+[81- Assessing Team Strategy using Spatiotemporal Data(2013)](https://chbrown.github.io/kdd-2013-usb/kdd/p1366.pdf) <br>
+[82- Deconfounding with Networked Observational Data in a Dynamic Environment(2021)](https://par.nsf.gov/servlets/purl/10300530) <br>
+[83- Modelling association football scores(1982)](http://www.90minut.pl/misc/maher.pdf) <br>
+[84- Space and Control in Soccer(2021)](https://www.researchgate.net/publication/353286854_Space_and_Control_in_Soccer) <br>
+[85- High-resolution	shot	capture	reveals	systematic biases	
+and	an improved	method	for	shooter	evaluation(2018)](https://jvlone.com/sportsdocs/BB-shot-Analytics-Statistics2019.pdf) <br>
+[86- Modelling soccer matches using bivariate discrete distributions with general dependence structure(2007)](https://www.researchgate.net/publication/4791355_Modelling_soccer_matches_using_bivariate_discrete_distributions_with_general_dependence_structure) <br>
+[87- On the Development of a Soccer Player Performance Rating System for the English Premier League(2012)](https://www.researchgate.net/publication/259927379_On_the_Development_of_a_Soccer_Player_Performance_Rating_System_for_the_English_Premier_League) <br>
+[88- Recognizing and Analyzing Ball Screen Defense in the NBA(2016)](https://www.sloansportsconference.com/research-papers/recognizing-and-analyzing-ball-screen-defense-in-the-nba) <br>
+[89- Automatically Recognizing On-Ball Screens(2014)](https://www.sloansportsconference.com/research-papers/automatically-recognizing-on-ball-screens) <br>
+[90- Estimating Player Performance in Different Contexts Using Fine-tuned Large Events Models(2024)](https://arxiv.org/abs/2402.06815) <br>
+[91- Forecasting Events in Soccer Matches Through Language(2024)](https://arxiv.org/abs/2402.06820) <br>
+[92- Measuring the Effectiveness of Pressing in Soccer(2021)](https://people.cs.kuleuven.be/~pieter.robberechts/repo/merckx-mlsa21-pressing.pdf) <br>
+[93- Exploring the determinants of success in different clusters of ball possession sequences in soccer(2020)](https://www.researchgate.net/publication/338796700_Exploring_the_determinants_of_success_in_different_clusters_of_ball_possession_sequences_in_soccer) <br>
+[94- Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball(2014)](https://arxiv.org/abs/1401.0942) <br>
+[95- Possession Sketches: Mapping NBA Strategies(2017)](https://www.sloansportsconference.com/research-papers/possession-sketches-mapping-nba-strategies) <br>
+[96- From Markov models to Poisson point processes: Modeling movement in the NBA(2019)](https://www.sloansportsconference.com/research-papers/from-markov-models-to-poisson-point-processes-modeling-movement-in-the-nba) <br>
+[97- PIVOT: A Parsimonious End-to-End Learning Framework for Valuing Player Actions in Handball using Tracking Data(2021)](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_muller.pdf) <br>
+[98- PlayNet: real-time handball play classification with Kalman embeddings and neural networks(2023)](https://www.researchgate.net/publication/372959262_PlayNet_real-time_handball_play_classification_with_Kalman_embeddings_and_neural_networks) <br>
+[99- Estimating the Effect of Team Hitting Strategies Using Counterfactual Virtual Simulation in Baseball(2023)](https://arxiv.org/abs/2206.01871) <br>
+[100- ]() <br>
 [101-]() <br>
 [102-]() <br>
 [103-]() <br>
