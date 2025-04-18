@@ -14,15 +14,15 @@
 [12- POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data(2014)](https://www.lukebornn.com/papers/cervone_ssac_2014.pdf) <br>
 [13- A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes(2016)](https://arxiv.org/abs/1408.0777) <br>
 [14-]() <br>
-[15-]() <br>
-[16-]() <br>
-[17-]() <br>
-[18-]() <br>
-[19-]() <br>
-[20-]() <br>
-[21-]() <br>
-[22-]() <br>
-[23-]() <br>
+[15- Generating Defensive Plays in Basketball Games(2018)](http://www.observatoriobizkaiabasket.com/es/wp-content/uploads/2018/10/4.pdf) <br>
+[16- Spatio-Temporal Learning of Basketball Offensive Strategies(2015)](https://cgv.cs.nthu.edu.tw/download/file?guid=04ac7e96-927c-11e5-b494-00113247b9b2) <br>
+[17- PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion(2023)](https://arxiv.org/abs/2306.04090) <br>
+[18- Relationships Between Player Actions and Game Outcomes in American Football(2011)](https://sportsci.org/2011/mep.htm) <br>
+[19- Solving the Problem of Inadequate Scoring Rules for Assessing Probabilistic Football Forecast Models(2012)](https://www.researchgate.net/publication/227378917_Solving_the_Problem_of_Inadequate_Scoring_Rules_for_Assessing_Probabilistic_Football_Forecast_Models) <br>
+[20- Determining the level of ability of football teams by dynamic ratings based on the relative discrepancies in scores between adversaries(2013)](https://www.researchgate.net/publication/236944354_Determining_the_level_of_ability_of_football_teams_by_dynamic_ratings_based_on_the_relative_discrepancies_in_scores_between_adversaries) <br>
+[21- Prospective information for pass decisional behavior in rugby union(2011)](https://www.sciencedirect.com/science/article/abs/pii/S0167945710001028) <br>
+[22- Actions Speak Louder Than Goals: Valuing Player Actions in Soccer(2019)](https://arxiv.org/abs/1802.07127) <br>
+[23- ]() <br>
 [24-]() <br>
 [25-]() <br>
 [26-]() <br>
