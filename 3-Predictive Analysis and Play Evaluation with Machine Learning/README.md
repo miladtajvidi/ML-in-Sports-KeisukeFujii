@@ -44,34 +44,34 @@
 [42- Estimating counterfactual treatment outcomes over time in complex multiagent scenarios(2024)](https://arxiv.org/abs/2206.01900) <br>
 [43- Strategies for defending a dribbler: categorisation of three defensive patterns in 1-on-1 basketball(2014)](https://www.researchgate.net/publication/265474795_Strategies_for_defending_a_dribbler_categorisation_of_three_defensive_patterns_in_1-on-1_basketball) <br>
 [44- Resilient help to switch and overlap hierarchical subsystems in a small human group(2016)](https://www.researchgate.net/publication/299769568_Resilient_help_to_switch_and_overlap_hierarchical_subsystems_in_a_small_human_group) <br>
-[45-]() <br>
-[46-]() <br>
-[47-]() <br>
-[48-]() <br>
-[49-]() <br>
-[50-]() <br>
-[51-]() <br>
-[52-]() <br>
-[53-]() <br>
-[54-]() <br>
-[55-]() <br>
-[56-]() <br>
-[57-]() <br>
-[58-]() <br>
-[59-]() <br>
-[60-]() <br>
-[61-]() <br>
-[62-]() <br>
-[63-]() <br>
-[64-]() <br>
-[65-]() <br>
-[66-]() <br>
-[67-]() <br>
-[68-]() <br>
-[69-]() <br>
-[70-]() <br>
-[71-]() <br>
-[72-]() <br>
+[45- Cognition and interpersonal coordination of patients with schizophrenia who have sports habits(2020)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0241863) <br>
+[46- Geometric analysis and quantitative evaluation of sport teamwork(2005)](https://www.researchgate.net/publication/220463434_Geometric_analysis_and_quantitative_evaluation_of_sport_teamwork) <br>
+[47- The causal effect of a timeout at stopping an opposing run in the NBA(2021)](https://arxiv.org/abs/2011.11691) <br>
+[48- Not Every Pass Can Be an Assist: A Data-Driven Model to Measure Pass Effectiveness in Professional Soccer Matches(2019)](https://www.researchgate.net/publication/328301715_Not_Every_Pass_Can_Be_an_Assist_A_Data-Driven_Model_to_Measure_Pass_Effectiveness_in_Professional_Soccer_Matches) <br>
+[49- CourtVision: New Visual and Spatial Analytics for the NBA(2012)](https://www.sloansportsconference.com/research-papers/courtvision-new-visual-and-spatial-analytics-for-the-nba) <br>
+[50- Analysis of playing styles according to team quality and match location in Greek professional soccer(2018)](https://www.tandfonline.com/doi/full/10.1080/24748668.2018.1539382) <br>
+[51- Dynamic Neural Relational Inference(2020)](https://openaccess.thecvf.com/content_CVPR_2020/papers/Graber_Dynamic_Neural_Relational_Inference_CVPR_2020_paper.pdf) <br>
+[52- A hybrid random forest to predict soccer matches in international tournaments(2019)](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2018-0060/html?lang=en) <br>
+[53- Generative Attention Networks for Multi-Agent Behavioral Modeling(2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6209) <br>
+[54- Group Activity Recognition in Basketball Tracking Data -- Neural Embeddings in Team Sports (NETS)(2023)](https://arxiv.org/abs/2209.00451) <br>
+[55- Social Force Model for Pedestrian Dynamics(1995)](https://www.researchgate.net/publication/1947096_Social_Force_Model_for_Pedestrian_Dynamics) <br>
+[56- ]() <br>
+[57- Automatically recognizing strategic cooperative behaviors in various situations of a team sport(2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209247) <br>
+[58- Analysis of factors predicting who obtains a ball in basketball rebounding situations(2019)](https://www.researchgate.net/publication/331366989_Analysis_of_factors_predicting_who_obtains_a_ball_in_basketball_rebounding_situations) <br>
+[59- VAIN: Attentional Multi-agent Predictive Modeling(2017)](https://arxiv.org/abs/1706.06122) <br>
+[60- BasketballGAN: Generating Basketball Play Simulation Through Sketching(2019)](https://arxiv.org/abs/1909.07088) <br>
+[61- Approaching In-Venue Quality Tracking from Broadcast Video using Generative AI(2024)](https://www.sloansportsconference.com/research-papers/approaching-in-venue-quality-tracking-from-broadcast-video-using-generative-ai) <br>
+[62- ]() <br>
+[63- Generative Modeling of Multimodal Multi-Human Behavior(2018)](https://www.researchgate.net/publication/330595975_Generative_Modeling_of_Multimodal_Multi-Human_Behavior) <br>
+[64- Space evaluation based on pitch control using drone video in Ultimate(2024)](https://arxiv.org/abs/2409.14588) <br>
+[65- NBA Lineup Analysis on Clustered Player Tendencies: A new approach to the positions of basketball & modeling lineup efficiency(2020)](https://www.sloansportsconference.com/research-papers/nba-lineup-analysis-on-clustered-player-tendencies-a-new-approach-to-the-positions-of-basketball-modeling-lineup-efficiency) <br>
+[66- Succinct Trit-array Trie for Scalable Trajectory Similarity Search(2020)](https://arxiv.org/abs/2005.10917) <br>
+[67- LightGBM: A Highly Efficient Gradient Boosting Decision Tree(2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/6449f44a102fde848669bdd9eb6b76fa-Paper.pdf) <br>
+[68- Detecting Tactical Patterns in Basketball: Comparison of Merge Self-Organising Maps and Dynamic Controlled Neural Networks(2014)](https://www.researchgate.net/publication/263538540_Kempe_M_Grunz_A_Memmert_D_2014_accepted_Detecting_Tactical_Patterns_in_Basketball_Comparison_of_Merge_Self-Organising_Maps_and_Dynamic_Controlled_Neural_Networks_European_Journal_of_Sport_Science) <br>
+[69- Emergence of self-similarity in football dynamics(2014)](https://arxiv.org/abs/1402.0912) <br>
+[70- The Attacking Process in Football: A Taxonomy for Classifying How Teams Create Goal Scoring Opportunities Using a Case Study of Crystal Palace FC(2019)](https://www.researchgate.net/publication/336578142_The_Attacking_Process_in_Football_A_Taxonomy_for_Classifying_How_Teams_Create_Goal_Scoring_Opportunities_Using_a_Case_Study_of_Crystal_Palace_FC) <br>
+[71- Neural Relational Inference for Interacting Systems(2018)](https://arxiv.org/abs/1802.04687) <br>
+[72- ]() <br>
 [73-]() <br>
 [74-]() <br>
 [75-]() <br>
