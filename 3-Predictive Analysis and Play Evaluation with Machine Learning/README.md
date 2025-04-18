@@ -1,18 +1,18 @@
 # References
 
-[1-]() <br>
-[2-]() <br>
-[3-]() <br>
-[4-]() <br>
-[5-]() <br>
-[6-]() <br>
-[7-]() <br>
-[8-]() <br>
-[9-]() <br>
-[10-]() <br>
-[11-]() <br>
-[12-]() <br>
-[13-]() <br>
+[1- baller2vec: A Multi-Entity Transformer For Multi-Agent Spatiotemporal Modeling(2021)](https://arxiv.org/abs/2102.03291) <br>
+[2- Detection of tactical patterns using semi-supervised graph neural networks(2022)](https://www.sloansportsconference.com/research-papers/detection-of-tactical-patterns-using-semi-supervised-graph-neural-networks) <br>
+[3- Incorporating domain knowledge in machine learning for soccer outcome prediction(2019)](https://www.researchgate.net/publication/326889511_Incorporating_domain_knowledge_in_machine_learning_for_soccer_outcome_prediction) <br>
+[4- A Unified Taxonomy and Multimodal Dataset for Events in Invasion Games(2021)](https://arxiv.org/abs/2108.11149) <br>
+[5- Space–time coordination dynamics in basketball: Part 2. The interaction between the two teams(2010)](https://www.researchgate.net/publication/41406026_Space-time_coordination_dynamics_in_basketball_Part_2_The_interaction_between_the_two_teams) <br>
+[6- Measuring soccer players’ contributions to chance creation by valuing their passes(2019)](https://repub.eur.nl/pub/115732/Repub_115732.pdf) <br>
+[7- Probabilistic movement models and zones of control(2018)](https://link.springer.com/article/10.1007/s10994-018-5725-1) <br>
+[8- Multi-agent statistical discriminative sub-trajectory mining and an application to NBA basketball(2023)](https://www.researchgate.net/publication/370062987_Multi-agent_statistical_discriminative_sub-trajectory_mining_and_an_application_to_NBA_basketball) <br>
+[9- DeepQB: Deep Learning with Player Tracking to Quantify Quarterback Decision-Making & Performance(2019)](https://www.sloansportsconference.com/research-papers/deepqb-deep-learning-with-player-tracking-to-quantify-quarterback-decision-making-performance) <br>
+[10- Action-Evaluator: A Visualization Approach for Player Action Evaluation in Soccer(2024)](https://ssxiexiao.github.io/papers/Action-Evaluator.pdf) <br>
+[11- FootBots: A Transformer-based Architecture for Motion Prediction in Soccer(2024)](https://arxiv.org/abs/2406.19852) <br>
+[12- POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data(2014)](https://www.lukebornn.com/papers/cervone_ssac_2014.pdf) <br>
+[13- A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes(2016)](https://arxiv.org/abs/1408.0777) <br>
 [14-]() <br>
 [15-]() <br>
 [16-]() <br>
