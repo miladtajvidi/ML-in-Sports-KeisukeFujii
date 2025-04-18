@@ -100,30 +100,30 @@ and	an improved	method	for	shooter	evaluation(2018)](https://jvlone.com/sportsdo
 [97- PIVOT: A Parsimonious End-to-End Learning Framework for Valuing Player Actions in Handball using Tracking Data(2021)](https://dtai.cs.kuleuven.be/events/MLSA21/papers/MLSA21_paper_muller.pdf) <br>
 [98- PlayNet: real-time handball play classification with Kalman embeddings and neural networks(2023)](https://www.researchgate.net/publication/372959262_PlayNet_real-time_handball_play_classification_with_Kalman_embeddings_and_neural_networks) <br>
 [99- Estimating the Effect of Team Hitting Strategies Using Counterfactual Virtual Simulation in Baseball(2023)](https://arxiv.org/abs/2206.01871) <br>
-[100- ]() <br>
-[101-]() <br>
-[102-]() <br>
-[103-]() <br>
-[104-]() <br>
-[105-]() <br>
-[106-]() <br>
-[107-]() <br>
-[108-]() <br>
-[109-]() <br>
-[110-]() <br>
-[111-]() <br>
-[112-]() <br>
-[113-]() <br>
-[114-]() <br>
-[115-]() <br>
-[116-]() <br>
-[117-]() <br>
-[118-]() <br>
-[119-]() <br>
-[120-]() <br>
-[121-]() <br>
-[122-]() <br>
-[123-]() <br>
+[100- Pitching strategy evaluation via stratified analysis using propensity score(2023)](https://arxiv.org/abs/2208.03492) <br>
+[101- Action Valuation of On- and Off-Ball Soccer Players Based on Multi-Agent Deep Reinforcement Learning(2023)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10328596) <br>
+[102- Space evaluation in football games via field weighting based on tracking data(2021)](https://www.researchgate.net/publication/349930300_Space_evaluation_in_football_games_via_field_weighting_based_on_tracking_data) <br>
+[103- Using deep learning to understand patterns of player movement in basketball(2018)](https://dspace.mit.edu/handle/1721.1/119728) <br>
+[104- Tactic analysis based on real-world ball trajectory in soccer video(2012)](https://www.sciencedirect.com/science/article/abs/pii/S003132031100447X?via%3Dihub) <br>
+[105- Multiagent off-screen behavior prediction in football(2022)](https://www.researchgate.net/publication/360797665_Multiagent_off-screen_behavior_prediction_in_football) <br>
+[106- tHoops: A Multi-Aspect Analytical Framework Spatio-Temporal Basketball Data(2018)](https://arxiv.org/abs/1712.01199) <br>
+[107- PlayeRank: Data-driven Performance Evaluation and Player Ranking in Soccer via a Machine Learning Approach(2019)](https://www.researchgate.net/publication/335802651_PlayeRank_Data-driven_Performance_Evaluation_and_Player_Ranking_in_Soccer_via_a_Machine_Learning_Approach) <br>
+[108- A public data set of spatio-temporal match events in soccer competitions(2019)](https://www.researchgate.net/publication/336848218_A_public_data_set_of_spatio-temporal_match_events_in_soccer_competitions) <br>
+[109- Multiresolution Tensor Learning for Efficient and Interpretable Spatial Analysis(2020)](https://arxiv.org/abs/2002.05578) <br>
+[110- A trajectory-based analysis of coordinated team activity in a basketball game(2009)](https://www.researchgate.net/publication/222542235_A_trajectory-based_analysis_of_coordinated_team_activity_in_a_basketball_game) <br>
+[111- Mythbusting Set-Pieces in Soccer(2018)](https://www.scribd.com/document/566398999/2007) <br>
+[112- “Not All Passes Are Created Equal:” Objectively Measuring the Risk and Reward of Passes in Soccer from Tracking Data(2017)](https://mirkwood.cs.edinboro.edu/~bennett/class/csci480/fall2017/notes/p1605.pdf) <br>
+[113- Let's Penetrate the Defense: A machine learning model for prediction and valuation of penetrative passes(2022)](https://www.researchgate.net/publication/364714286_Let's_Penetrate_the_Defense_A_machine_learning_model_for_prediction_and_valuation_of_penetrative_passes) <br>
+[114- Pass Receiver and Outcome Prediction in Soccer Using Temporal Graph Networks(2023)](https://www.researchgate.net/publication/374145087_Pass_Receiver_and_Outcome_Prediction_in_Soccer_Using_Temporal_Graph_Networks) <br>
+[115- Football Matches Outcomes Prediction based on Gradient Boosting Algorithms and Football Rating System(2022)](https://openaccess.cms-conferences.org/publications/book/978-1-958651-37-7/article/978-1-958651-37-7_9) <br>
+[116- Deep learning for football outcomes prediction based on football rating system(2022)](https://www.researchgate.net/publication/365213939_Deep_learning_for_football_outcomes_prediction_based_on_football_rating_system) <br>
+[117- Valuing the Art of Pressing(2019)](https://people.cs.kuleuven.be/~pieter.robberechts/repo/robberechts-statsbomb19-pressing.pdf) <br>
+[118- un-xPass: Measuring Soccer Player’s Creativity(2023)](https://statsbomb.com/wp-content/uploads/2022/09/Pieter-Robberechts-et-al-un-xPass-Measuring-Soccer-Players-Creativity.pdf) <br>
+[119- Modeling Conditional Dependencies in Multiagent Trajectories(2022)](https://proceedings.mlr.press/v151/rudolph22a/rudolph22a.pdf) <br>
+[120- Masked Autoencoder Pretraining for Event Classification in Elite Soccer(2023)](https://www.researchgate.net/publication/378474692_Masked_Autoencoder_Pretraining_for_Event_Classification_in_Elite_Soccer) <br>
+[121- Exploring Game Performance in the National Basketball Association Using Player Tracking Data(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132894) <br>
+[122- Simulating Defensive Trajectories in American Football for Predicting League Average Defensive Movements(2021)](https://www.frontiersin.org/journals/sports-and-active-living/articles/10.3389/fspor.2021.669845/full) <br>
+[123- ]() <br>
 [124-]() <br>
 [125-]() <br>
 [126-]() <br>
