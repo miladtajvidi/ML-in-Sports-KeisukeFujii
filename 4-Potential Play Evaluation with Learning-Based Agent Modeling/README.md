@@ -25,7 +25,7 @@
 [23- Game Intelligence in Team Sports(2015)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0125453) <br>
 [24- Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems(2020)](https://arxiv.org/abs/2005.01643) <br>
 [25- Testing Mixed-Strategy Equilibria When Players Are Heterogeneous: The Case of Penalty Kicks in Soccer(2002)](https://pricetheory.uchicago.edu/levitt/Papers/ChiapporiGrosecloseLevitt2002.pdf) <br>
-[26- ]() <br>
+[26- Celebrating Diversity in Shared Multi-Agent Reinforcement Learning(2021)](https://proceedings.neurips.cc/paper_files/paper/2021/file/20aee3a5f4643755a79ee5f6a73050ac-Paper.pdf) <br>
 [27-]() <br>
 [28-]() <br>
 [29-]() <br>
