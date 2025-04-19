@@ -50,27 +50,27 @@
 [48- A Markov Game model for valuing actions, locations, and team performance in ice hockey(2017)](https://www.researchgate.net/publication/315634981_A_Markov_Game_model_for_valuing_actions_locations_and_team_performance_in_ice_hockey) <br>
 [49- How does AI play football? An analysis of RL and real-world football strategies(2022)](https://arxiv.org/abs/2111.12340) <br>
 [50- Application of Game Theory in Describing Efficacy of Decision Making in Sportsman's Tactical Performance in Team Sports(2008)](https://www.researchgate.net/publication/23984945_Application_of_Game_Theory_in_Describing_Efficacy_of_Decision_Making_in_Sportsman's_Tactical_Performance_in_Team_Sports) <br>
-[51- ]() <br>
-[52-]() <br>
-[53-]() <br>
-[54-]() <br>
-[55-]() <br>
-[56-]() <br>
-[57-]() <br>
-[58-]() <br>
-[59-]() <br>
-[60-]() <br>
-[61-]() <br>
-[62-]() <br>
-[63-]() <br>
-[64-]() <br>
-[65-]() <br>
-[66-]() <br>
-[67-]() <br>
-[68-]() <br>
-[69-]() <br>
-[70-]() <br>
-[71-]() <br>
-[72-]() <br>
-[73-]() <br>
-[74-]() <br>
+[51- The Price of Anarchy in Basketball(2010)](https://www.researchgate.net/publication/46554862_The_Price_of_Anarchy_in_Basketball) <br>
+[52- STS2: Simple Team Sports Simulator(2020)](https://github.com/electronicarts/SimpleTeamSportsSimulator) <br>
+[53- Physics-Based Modeling of Pass Probabilities in Soccer(2017)](https://www.researchgate.net/publication/315166647_Physics-Based_Modeling_of_Pass_Probabilities_in_Soccer) <br>
+[54- Cracking the Black Box: Distilling Deep Sports Analytics(2020)](https://arxiv.org/abs/2006.04551) <br>
+[55- Sutton, R.S., Barto, A.G.: Reinforcement Learning: An Introduction. MIT Press (2018)](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) <br>
+[56- Tadelis, S.: Game Theory: An Introduction. Princeton University Press (2013)](https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5z2A2_Game_Theory_An_Introduction.pdf) <br>
+[57- Hierarchical Deep Multiagent Reinforcement Learning with Temporal Abstraction(2018)](https://arxiv.org/abs/1809.09332) <br>
+[58- Trajectory prediction with imitation learning reflecting defensive evaluation in team sports(2020)](https://ieeexplore.ieee.org/document/9291841) <br>
+[59- Synergizing Deep Reinforcement Learning and Biological Pursuit Behavioral Rule for Robust and Interpretable Navigation(2023)](https://openreview.net/pdf?id=34fctwxJXo) <br>
+[60- Collaborative hunting in artificial agents with deep reinforcement learning(2024)](https://elifesciences.org/articles/85694) <br>
+[61- Game Plan: What AI can do for Football, and What Football can do for AI(2021)](https://jair.org/index.php/jair/article/view/12505/26683) <br>
+[62- Leaving Goals on the Pitch: Evaluating Decision Making in Soccer(2021)](https://arxiv.org/abs/2104.03252) <br>
+[63- A Markov Framework for Learning and Reasoning About Strategies in Professional Soccer(2023)](https://www.jair.org/index.php/jair/article/view/13934/26940) <br>
+[64- Non-local Neural Networks(2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Non-Local_Neural_Networks_CVPR_2018_paper.pdf) <br>
+[65- Q-Ball: Modeling Basketball Games Using Deep Reinforcement Learning(2022)](https://ojs.aaai.org/index.php/AAAI/article/view/20861) <br>
+[66- Hierarchical Cooperative Multi-Agent Reinforcement Learning with Skill Discovery(2020)](https://arxiv.org/abs/1912.03558) <br>
+[67- Analysis of Strategies in American Football Using Nash Equilibrium(2014)](https://www.researchgate.net/publication/265785144_Analysis_of_Strategies_in_American_Football_Using_Nash_Equilibrium) <br>
+[68- Diverse Generation for Multi-agent Sports Games(2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yeh_Diverse_Generation_for_Multi-Agent_Sports_Games_CVPR_2019_paper.pdf) <br>
+[69- A Strategic Framework for Optimal Decisions in Football 1-vs-1 Shot-Taking Situations: An Integrated Approach of Machine Learning, Theory-Based Modeling, and Game Theory(2024)](https://arxiv.org/abs/2307.14732) <br>
+[70- Social forces for team coordination in ball possession game(2018)](https://www.researchgate.net/publication/323297891_Social_forces_for_team_coordination_in_ball_possession_game) <br>
+[71- Generating Multi-Agent Trajectories using Programmatic Weak Supervision(2019)](https://arxiv.org/abs/1803.07612) <br>
+[72- Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms(2021)](https://arxiv.org/abs/1911.10635) <br>
+[73- On Multi-Agent Learning in Team Sports Games(2019)](https://arxiv.org/abs/1906.10124) <br>
+[74- Reconstructing NBA Players(2020)](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500171.pdf) <br>
