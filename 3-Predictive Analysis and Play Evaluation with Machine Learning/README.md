@@ -13,7 +13,7 @@
 [11- FootBots: A Transformer-based Architecture for Motion Prediction in Soccer(2024)](https://arxiv.org/abs/2406.19852) <br>
 [12- POINTWISE: Predicting Points and Valuing Decisions in Real Time with NBA Optical Tracking Data(2014)](https://www.lukebornn.com/papers/cervone_ssac_2014.pdf) <br>
 [13- A Multiresolution Stochastic Process Model for Predicting Basketball Possession Outcomes(2016)](https://arxiv.org/abs/1408.0777) <br>
-[14-]() <br>
+14- Quantifying shot quality in the NBA(2014) <br>
 [15- Generating Defensive Plays in Basketball Games(2018)](http://www.observatoriobizkaiabasket.com/es/wp-content/uploads/2018/10/4.pdf) <br>
 [16- Spatio-Temporal Learning of Basketball Offensive Strategies(2015)](https://cgv.cs.nthu.edu.tw/download/file?guid=04ac7e96-927c-11e5-b494-00113247b9b2) <br>
 [17- PlayBest: Professional Basketball Player Behavior Synthesis via Planning with Diffusion(2023)](https://arxiv.org/abs/2306.04090) <br>
