@@ -194,7 +194,7 @@ applications to image analysis and automated cartography(1981)](https://dl.acm.o
 [189- A Four-Point Camera Calibration Method for Sport Videos(2023)](https://ieeexplore.ieee.org/document/10038750) <br>
 [190- Pose2Seg: Detection Free Human Instance Segmentation(2019)](https://www.researchgate.net/publication/338503885_Pose2Seg_Detection_Free_Human_Instance_Segmentation) <br>
 [191- ByteTrack: Multi-Object Tracking by Associating Every Detection Box(2022)](https://arxiv.org/abs/2110.06864) <br>
-[192- ]() <br>
+192- A method for tracking hockey players by exploiting multiple detections and omni-scale appearance features(2020) <br>
 [193- DanceMVP: Self-Supervised Learning for Multi-Task Primitive-Based Dance Performance Assessment via Transformer Text Prompting(2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28893) <br>
 [194- Omni-Scale Feature Learning for Person Re-Identification(2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Omni-Scale_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.pdf) <br>
 [195- Feature Combination Meets Attention: Baidu Soccer Embeddings and Transformer based Temporal Detection(2021)](https://arxiv.org/abs/2106.14447) <br>
