@@ -23,25 +23,26 @@
 [21- Google Research Football: A Novel Reinforcement Learning Environment(2020)](https://ojs.aaai.org/index.php/AAAI/article/view/5878) <br>
 [22- Coordinated Multi-Agent Imitation Learning(2017)](https://arxiv.org/abs/1703.03121) <br>
 [23- Analyzing the Impact of the Automatic Ball-Strike System in Professional Baseball: A Case Study on KBO League Data(2024)](https://arxiv.org/abs/2407.15779) <br>
-[24- ]() <br>
-[25-]() <br>
-[26-]() <br>
-[27-]() <br>
-[28-]() <br>
-[29-]() <br>
-[30-]() <br>
-[31-]() <br>
-[32-]() <br>
-[33-]() <br>
-[34-]() <br>
-[35-]() <br>
-[36-]() <br>
-[37-]() <br>
-[38-]() <br>
-[39-]() <br>
-[40-]() <br>
-[41-]() <br>
-[42-]() <br>
-[43-]() <br>
-[44-]() <br>
-[45-]() <br>
+[24- Celebrating Diversity in Shared Multi-Agent Reinforcement Learning(2021)](https://proceedings.neurips.cc/paper_files/paper/2021/file/20aee3a5f4643755a79ee5f6a73050ac-Paper.pdf) <br>
+[25- Successful Coaching-5th Edition(2024)](https://canada.humankinetics.com/products/successful-coaching-5th-edition?srsltid=AfmBOop768fS3SE3JTF8C3pmtLblfGz5Srg0kNNNEvYqiAmcQOaWT7jQ) <br>
+[26- A review of virtual environments for training in ball sports(2012)](https://www.researchgate.net/publication/255814383_A_review_of_virtual_environments_for_training_in_ball_sports) <br>
+[27- Half-Time Strategies to Enhance Second-Half Performance in Team-Sports Players: A Review and Recommendations(2014)](https://www.researchgate.net/publication/269694614_Half-Time_Strategies_to_Enhance_Second-Half_Performance_in_Team-Sports_Players_A_Review_and_Recommendations) <br>
+[28- Sim-to-Real Robot Learning from Pixels with Progressive Nets(2017)](https://arxiv.org/abs/1610.04286) <br>
+[29- Smart Line Judgement System: A Novel Technology in Volleyball Arbitration(2019)](https://www.researchgate.net/publication/332072610_Smart_Line_Judgement_System_A_Novel_Technology_in_Volleyball_Arbitration) <br>
+[30- Learning From Demonstration(1996)](https://papers.nips.cc/paper_files/paper/1996/file/68d13cf26c4b4f4f932e3eff990093ba-Paper.pdf) <br>
+[31- TeamTrack: A Dataset for Multi-Sport Multi-Object Tracking in Full-pitch Videos(2024)](https://arxiv.org/abs/2404.13868) <br>
+[32- Review on Wearable Technology in Sports: Concepts, Challenges and Opportunities(2023)](https://www.mdpi.com/2076-3417/13/18/10399) <br>
+[33- A Survey of Cyber Physical Systems(2011)](https://www.researchgate.net/publication/228934884_A_Survey_of_Cyber_Physical_Systems) <br>
+[34- Automatic Detection of Faults in Simulated Race Walking from a Fixed Smartphone Camera(2024)](https://www.researchgate.net/publication/379952686_Automatic_Detection_of_Faults_in_Simulated_Race_Walking_from_a_Fixed_Smartphone_Camera) <br>
+[35- 3D Pose-Based Temporal Action Segmentation for Figure Skating: A Fine-Grained and Jump Procedure-Aware Annotation Approach(2024)](https://arxiv.org/abs/2408.16638) <br>
+[36- Developing Athlete Monitoring Systems in Team Sports: Data Analysis and Visualization(2019)](https://www.researchgate.net/publication/330293106_Developing_Athlete_Monitoring_Systems_in_Team_Sports_Data_Analysis_and_Visualization) <br>
+[37- Learning Robot Soccer from Egocentric Vision with Deep Reinforcement Learning(2024)](https://arxiv.org/abs/2405.02425) <br>
+[38- Synergizing Deep Reinforcement Learning and Biological Pursuit Behavioral Rule for Robust and Interpretable Navigation(2023)](https://openreview.net/pdf?id=34fctwxJXo) <br>
+[39- Automated Offside Detection by Spatio-Temporal Analysis of Football Videos(2021)](https://dl.acm.org/doi/pdf/10.1145/3475722.3482796) <br>
+[40- Spectators of AI : Football Fans vs. the Semi-Automated Offside Technology at the 2022 FIFA World Cup(2023)](https://www.researchgate.net/publication/370173450_Spectators_of_AI_Football_Fans_vs_the_Semi-Automated_Offside_Technology_at_the_2022_FIFA_World_Cup) <br>
+[41- SportsHHI: A Dataset for Human-Human Interaction Detection in Sports Videos(2024)](https://arxiv.org/abs/2404.04565) <br>
+[42- OBTracker: Visual Analytics of Off-ball Movements in Basketball(2023)](https://ssxiexiao.github.io/papers/OBTracker.pdf) <br>
+[43- FineDiving: A Fine-grained Dataset for Procedure-aware Action Quality Assessment(2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_FineDiving_A_Fine-Grained_Dataset_for_Procedure-Aware_Action_Quality_Assessment_CVPR_2022_paper.pdf) <br>
+[44- Generating Long-term Trajectories Using Deep Hierarchical Networks(2016)](https://papers.nips.cc/paper_files/paper/2016/file/fe8c15fed5f808006ce95eddb7366e35-Paper.pdf) <br>
+[45- : Cooperative play classification in team sports via semi-supervised
+learning(2022)](https://sciendo-parsed.s3.eu-central-1.amazonaws.com/6471f717215d2f6c89db6f5c/10.2478_ijcss-2022-0006.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIA6AP2G7AKNPZ2VAQJ%2F20250419%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250419T031837Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJGMEQCICvugYRUICT9otT4lY%2FGyaTdc%2Fu1wbEShprt5r9SN53DAiBbcKcpoetAQy92I689OS2z7kJP5FdUoT%2BMdR9p%2FDgnpirFBQiE%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDk2MzEzNDI4OTk0MCIMIV4Ro184fAJHqr8xKpkFuhBwBPcSlPnAmu49ykykLmSeC9y3BhjzE8AvO99v%2BWie2WJxy%2FBQDvaOMZ%2Bx0cJU4v0gj6ltPn5fjQ2t4XrbEo40lvGOB9XKaUMFnVNJThCn88X5ejLEzRO7o0oooZuLSM4y6d7zRk81CuYpfW94iUiEx6oiVlbRrMQvEeBh4iAyhH0P65vXtn9n5IQT%2FeSwpv8IlMcgpubaY0rKSFqmAtXqBFfHlHtsvFbX3%2BXwU1QEdfptjAvpbERRKz3iU1RhiWIQITQZ5De2hHAQAkmXUxKx3eCXUavnm7xKNh3LCpJSmmCSiaGgnglpOtMBQqD%2F8SLDQ72IZsnecqZI77Ah39Wa7Jho4k%2Br19%2FkIc33KowF3Ld7FSNG3k6ZJwM5aeZhh%2BAS4g%2FpxR3WjL7P20Ng55Z3Csv5593i7SPckmKKGY8nl4dPhbPNH7PTlrxrsJftuS%2Fa%2FC%2BWleo%2B7wJjqBsFW4ogZpeRJWE2Wl1XcU%2FxXqTf2OaRbPoQ93GoccTEkJp4DdxwtG%2BTNTIgbRw77y9XfTGAsGoi29rcg8R2rTg7SlCngWB9Q3GdZHfKL18ZiQLH7lTogtH4yu2xaZ33HkgzIPlzMo8KwPtcC3rNSEDQFJeRxxs%2FVkSI5raRrZ5L5IFNguleOq3w9alAZ14oJUA0%2FZIO9A50yc3vzI9tmGzlbTx7%2FFtQbnbKUdwW5cD9fUuGJ1LDKeJr%2BXD4XbVKywRVoOTdULT%2BKWNdWn0LsqAvdmQBvCFZfUH7Q47Wmu1y4BrJEvYOrjZshoZFDhh3mzm%2BG9JUCavPINjKxfJfvzNwPkywp8OZjtVU6nKxja90c7pPG6jheuRdFz2aTtm42u8HnjLak6kLW219GQnXyUmk%2FwU2gceJEzAKgr8w%2FqaMwAY6sgFd6DtrOrtF6mq%2FKlczjpBV32EEcmw7aRZh0%2BuafvYHXQUZqREuPQW32MFGINbhvO0t6%2Bui16X%2FQ5oK9LvZzskJeL33QBvn5S1bPh8Qm6RYYip%2FSyhlpHbQfWnTfnE8sfT6nDqDIQDLk8vKoMEoNfXrDJNavCjSZijZE3wT0aR16bFTCK6hAjYcpCY%2FBMtEwD3PBKzlTqeQf%2Fc5qAziDIwQ1kcNoZOp1Lp29lK2NMdnaDZt&X-Amz-Signature=774a145a3f084f5361d78de130583a725dd17f0a6a9eea8172121329411fc96e&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject) <br>
