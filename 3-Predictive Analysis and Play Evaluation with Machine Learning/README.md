@@ -55,13 +55,13 @@
 [53- Generative Attention Networks for Multi-Agent Behavioral Modeling(2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6209) <br>
 [54- Group Activity Recognition in Basketball Tracking Data -- Neural Embeddings in Team Sports (NETS)(2023)](https://arxiv.org/abs/2209.00451) <br>
 [55- Social Force Model for Pedestrian Dynamics(1995)](https://www.researchgate.net/publication/1947096_Social_Force_Model_for_Pedestrian_Dynamics) <br>
-[56- ]() <br>
+56- Quantifying the value of transitions in soccer via spatiotemporal trajectory clustering(2018) <br>
 [57- Automatically recognizing strategic cooperative behaviors in various situations of a team sport(2018)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0209247) <br>
 [58- Analysis of factors predicting who obtains a ball in basketball rebounding situations(2019)](https://www.researchgate.net/publication/331366989_Analysis_of_factors_predicting_who_obtains_a_ball_in_basketball_rebounding_situations) <br>
 [59- VAIN: Attentional Multi-agent Predictive Modeling(2017)](https://arxiv.org/abs/1706.06122) <br>
 [60- BasketballGAN: Generating Basketball Play Simulation Through Sketching(2019)](https://arxiv.org/abs/1909.07088) <br>
 [61- Approaching In-Venue Quality Tracking from Broadcast Video using Generative AI(2024)](https://www.sloansportsconference.com/research-papers/approaching-in-venue-quality-tracking-from-broadcast-video-using-generative-ai) <br>
-[62- ]() <br>
+[62- BAYESIAN CREDIBLE POSSESSION BASED PLAYER PERFORMANCE EVALUATION IN BASKETBALL(2023)](https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202402268010511852) <br>
 [63- Generative Modeling of Multimodal Multi-Human Behavior(2018)](https://www.researchgate.net/publication/330595975_Generative_Modeling_of_Multimodal_Multi-Human_Behavior) <br>
 [64- Space evaluation based on pitch control using drone video in Ultimate(2024)](https://arxiv.org/abs/2409.14588) <br>
 [65- NBA Lineup Analysis on Clustered Player Tendencies: A new approach to the positions of basketball & modeling lineup efficiency(2020)](https://www.sloansportsconference.com/research-papers/nba-lineup-analysis-on-clustered-player-tendencies-a-new-approach-to-the-positions-of-basketball-modeling-lineup-efficiency) <br>
